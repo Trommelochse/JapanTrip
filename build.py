@@ -9,6 +9,7 @@ Relative .md links are rewritten to .html.
 """
 
 import re
+import shutil
 import sys
 from pathlib import Path
 
@@ -19,6 +20,7 @@ except ImportError:
 
 ROOT = Path(__file__).parent
 CONTENT = ROOT / "content"
+ASSETS = ROOT / "assets"
 SITE = ROOT / "site"
 
 HEADER_TITLE = "Japan — 40th Birthday Trip"
@@ -154,6 +156,13 @@ def main():
     md_files = sorted(CONTENT.glob("*.md"))
     if not md_files:
         sys.exit(f"No markdown files found in {CONTENT}")
+
+    # Copy static assets (CSS, future images/fonts) into site/
+    if ASSETS.is_dir():
+        for asset in ASSETS.iterdir():
+            if asset.is_file():
+                shutil.copy2(asset, SITE / asset.name)
+                print(f"  asset: {asset.name}")
 
     print(f"Building {len(md_files)} pages into {SITE}/")
     for md_path in md_files:
