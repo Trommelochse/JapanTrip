@@ -111,6 +111,62 @@ def render_md(md_text: str) -> str:
     return html
 
 
+def link_places(html: str, stem: str) -> tuple[str, int, list[str]]:
+    """Auto-link bolded place names in the rendered HTML to Google Maps.
+    Returns (linked_html, link_count, unmatched_names).
+    A place is "linked" when its name appears as a substring inside any
+    <strong>...</strong> tag — the markdown convention in these day files
+    bolds every place name (sometimes alone, sometimes as part of a longer
+    bold like '**12:00 — Lunch: Maisen Aoyama Honten**'). The whole
+    <strong> block is wrapped in an anchor, so the link covers the full
+    bolded run."""
+    places_file = PLACES / f"{stem}.json"
+    if not places_file.is_file():
+        return html, 0, []
+    data = json.loads(places_file.read_text(encoding="utf-8"))
+    # Process longest names first so "Maisen Aoyama Honten" wraps before "Maisen".
+    places = sorted(
+        (p for p in data.get("places", []) if p.get("lat") is not None),
+        key=lambda p: -len(p["name"]),
+    )
+    count = 0
+    unmatched = []
+    for p in places:
+        url = f"https://www.google.com/maps/search/?api=1&query={p['lat']},{p['lng']}"
+        # Variants: full name, then with parentheticals stripped.
+        bare = re.sub(r"\s*\([^)]*\)", "", p["name"]).strip()
+        variants = [p["name"]]
+        if bare and bare != p["name"]:
+            variants.append(bare)
+        matched_any = False
+        for variant in variants:
+            # Match bare <strong>...VARIANT...</strong>. Already-wrapped strongs
+            # carry a data-linked attribute and so don't match this pattern.
+            pattern = re.compile(
+                r"<strong>([^<]*?" + re.escape(variant) + r"[^<]*?)</strong>"
+            )
+
+            def replace(m, _var=variant, _url=url):
+                nonlocal count
+                count += 1
+                return (
+                    f'<a class="place-link" href="{_url}" target="_blank" '
+                    f'rel="noopener noreferrer" title="Open {_var} in Google Maps">'
+                    f'<strong data-linked>{m.group(1)}</strong></a>'
+                )
+
+            new_html, n = pattern.subn(replace, html)
+            if n > 0:
+                html = new_html
+                matched_any = True
+                break  # Don't try shorter variants once one matched.
+        if not matched_any:
+            unmatched.append(p["name"])
+    # Strip the marker so the rendered HTML stays clean.
+    html = html.replace("<strong data-linked>", "<strong>")
+    return html, count, unmatched
+
+
 def render_map(stem: str) -> str:
     """If places/<stem>.json exists, return HTML for an interactive Leaflet map.
     Returns empty string otherwise."""
@@ -125,7 +181,7 @@ def render_map(stem: str) -> str:
     places_json = json.dumps(places)
     return f"""
 <div id="{map_id}" class="day-map" aria-label="Map of places for this day"></div>
-<p class="day-map-legend">Pins are numbered in schedule order. Click for details. Map tiles © OpenStreetMap contributors.</p>
+<p class="day-map-legend">Pins are numbered in schedule order. Bolded place names in the schedule below link to Google Maps. Tiles © OpenStreetMap.</p>
 <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" crossorigin="">
 <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js" crossorigin=""></script>
 <script>
@@ -228,6 +284,7 @@ def main():
             active_stem = stem
 
         body = render_md(md_path.read_text(encoding="utf-8"))
+        body, link_count, unmatched = link_places(body, stem)
         map_html = render_map(stem)
         if map_html:
             # Insert the map right before the first <h2> (typically "## Schedule").
@@ -249,7 +306,11 @@ def main():
             body=body,
         )
         (SITE / out_name).write_text(page, encoding="utf-8")
-        print(f"  {md_path.name:42} → site/{out_name}")
+        link_note = f"  [{link_count} place links"
+        if unmatched:
+            link_note += f", {len(unmatched)} unmatched: {', '.join(unmatched[:3])}{'…' if len(unmatched) > 3 else ''}"
+        link_note += "]" if link_count or unmatched else ""
+        print(f"  {md_path.name:42} → site/{out_name}{link_note if link_count or unmatched else ''}")
 
     print(f"\nDone. Open file://{(SITE / 'index.html').resolve()}")
 

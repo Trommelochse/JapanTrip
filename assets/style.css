@@ -371,6 +371,15 @@ body.dark .content tr:nth-child(even) td {
     margin: -1rem 0 2rem;
     font-style: italic;
 }
+.place-link {
+    text-decoration: none;
+    border-bottom: 1px dotted var(--accent);
+    color: inherit;
+}
+.place-link:hover {
+    border-bottom-style: solid;
+}
+.place-link strong { color: var(--accent); }
 .day-map-pin {
     background: var(--accent);
     color: var(--nav-active-fg);
@@ -393,6 +402,8 @@ body.dark .day-map-pin { border-color: var(--bg); }
 /* Print */
 @media print {
     .day-map, .day-map-legend { display: none !important; }
+    .place-link { border: none !important; }
+    .place-link strong { color: inherit !important; }
     .sidebar, .nav-toggle, .theme-toggle { display: none !important; }
     .content {
         margin-left: 0;
