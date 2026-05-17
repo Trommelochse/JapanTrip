@@ -6,15 +6,15 @@ Today's date: **2026-05-17.** Trip dates: **Oct 23 – Nov 6, 2026.**
 
 ## Critical path
 
-Three items will break the trip if late: (1) the **Hakone Suimeisou** balcony-onsen room booking (only 12 of those rooms exist, sell first); (2) the **Saiho-ji postcard** mailed in early September with International Reply Coupons — without the temple's return postcard you do not get in on Nov 5; (3) the **Nōhi Bus Takayama→Shirakawa-go 07:50 on Nov 1**, a foliage Sunday, reservation window opens Oct 1 09:00 JST and sells out within hours. Everything else has slack or a workable substitute.
+Three items will break the trip if late: (1) the **Tensui Saryo (Gora) Basic Kaiseki + in-room private bath room** for Oct 28–29 — the Basic Kaiseki plan is the only one that stays in the price band, and the in-room-private-bath inventory is the smaller share; (2) the **Saiho-ji postcard** mailed in early September with International Reply Coupons — without the temple's return postcard you do not get in on Nov 5; (3) the **Nōhi Bus Takayama→Shirakawa-go 07:50 on Nov 1**, a foliage Sunday, reservation window opens Oct 1 09:00 JST and sells out within hours. Everything else has slack or a workable substitute.
 
 ---
 
 ## Right now — this week (May 17–24, 2026)
 
-The three city accommodations + the Hakone ryokan are all "book this week." Sat Oct 31 in Takayama is the hardest single night in the entire trip; Suimeisou's private-balcony-onsen tier is already eroding; Hotel Graphy Nezu's 5-night Oct twin availability is partially gone per `hotels-tokyo.md`.
+The three city accommodations + the Hakone ryokan are all "book this week." Sat Oct 31 in Takayama is the hardest single night in the entire trip; Tensui Saryo's Basic Kaiseki + private-bath inventory is the smaller share of their rooms and goes first for foliage shoulder dates; Hotel Graphy Nezu's 5-night Oct twin availability is partially gone per `hotels-tokyo.md`.
 
-- [ ] **Hakone Suimeisou — 2 nights Oct 28–29** — book via [suimeisou.com (English)](https://www.suimeisou.com/english/), Booking.com, or Rakuten Travel. Select the **Japanese-style Room with Open-air Bath** plan (the balcony rotenburo tier — only 12 such rooms; the base ¥27,000 rooms do *not* have it). Confirm **kaiseki dinner + breakfast in-room, both nights**. **In the booking note write: "No alcohol pairing — please prepare hojicha / sencha / mugicha tea service with the kaiseki, both nights"** (この旅館の場合、アルコールは結構です。お茶を用意してください). ~€620–710 total. See `hotels-hakone.md`.
+- [ ] **Tensui Saryo (Gora) — 2 nights Oct 28–29** — book via [Ikyu (English)](https://www.ikyu.com/en-us/00002357/10560299/10122468/) for the **Basic Kaiseki plan with Japanese Modern + Open-Air Bath room**. Also bookable via Booking.com, Agoda, Japanican. Confirm **kaiseki dinner + breakfast included, both nights**; dinner is in a private restaurant booth (not in-room) — that's standard for Tensui. **In the booking note write: "No alcohol pairing — please prepare hojicha / sencha / mugicha tea service with the kaiseki, both nights"** (アルコールは結構です。お茶を用意してください). ~€730–860 total. See `hotels-hakone.md`.
 - [ ] **Sumiyoshi Ryokan Takayama — 3 nights Oct 30, 31, Nov 1** — book via [Booking.com](https://www.booking.com/hotel/jp/sumiyoshi-ryokan.html) or Japanese Guest Houses. **River-view Japanese-style twin futon room, breakfast only** (~€135/night, ~€405 total). **Oct 31 (Sat) is the bottleneck — if any single night shows unavailable, lock the other two immediately and fall back to Tabist Hotel Around Takayama (~€88) for the missing night.** See `hotels-takayama.md`.
 - [ ] **Hotel Graphy Nezu Tokyo — 5 nights Oct 23–27** — book via [Booking.com](https://www.booking.com/hotel/jp/graphy-nezu.html). **Deluxe Twin with private bath** (~€85–105/night, ~€425–525 total). If sold out by the time you book: fallback **Sawanoya Ryokan** (Yanaka, same neighborhood, futon-on-tatami, similar price). See `hotels-tokyo.md`.
 - [ ] **Hotel Resol Kyoto Kawaramachi Sanjo — 4 nights Nov 2–5 (check out Nov 6)** — book via [Booking.com](https://www.booking.com/hotel/jp/resol-kyoto-kawaramachi-sanjo.html). Twin room, no meals (~€130–175/night). If full: fallback **Hotel The Celestine Kyoto Gion**. See `hotels-kyoto.md`.
@@ -25,7 +25,7 @@ The three city accommodations + the Hakone ryokan are all "book this week." Sat 
 
 - [ ] **Order International Reply Coupons (IRCs) at Omniva (Estonian post office)** for the Saiho-ji return postage. Buy 2–3 to be safe (~€10 total). Required to send a self-addressed return postcard/envelope from Estonia. Delivery times for IRCs can be slow — order now so they're in hand by August.
 - [ ] **Buy eSIM data plan** (Ubigi / Airalo 10–20GB, ~€15 pp) — purchasable now, activates on arrival. Or buy in late September; price doesn't move.
-- [ ] **Re-verify Hakone Suimeisou booking confirmation** received and the "no alcohol pairing — tea service" note acknowledged in writing.
+- [ ] **Re-verify Tensui Saryo booking confirmation** received, with the Basic Kaiseki plan + in-room private open-air bath room confirmed, and the "no alcohol pairing — tea service" note acknowledged in writing.
 
 ## July 2026
 
@@ -139,7 +139,7 @@ Calendar these. Phone alarm two minutes before each.
 | City | Dates | Hotel | Booking urgency |
 |---|---|---|---|
 | Tokyo | Oct 23–27 (5n) | Hotel Graphy Nezu | This week |
-| Hakone | Oct 28–29 (2n) | Hakone Suimeisou (balcony onsen room) | This week |
+| Hakone | Oct 28–29 (2n) | Tensui Saryo (Gora, in-room private bath, Basic Kaiseki) | This week |
 | Takayama | Oct 30–Nov 1 (3n) | Sumiyoshi Ryokan (river view, breakfast only) | This week — Sat Oct 31 is the hardest single night of the trip |
 | Kyoto | Nov 2–5 (4n) | Hotel Resol Kyoto Kawaramachi Sanjo | This month |
 

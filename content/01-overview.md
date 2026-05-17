@@ -12,9 +12,9 @@ Fourteen nights in Japan, late October to early November 2026, celebrating Cleme
 | **Dates** | Oct 23 – Nov 6, 2026 (14 nights) |
 | **Direction** | Tokyo-first; HND in, KIX out |
 | **Visa** | German passports, 90-day visa-free, no application |
-| **Total per person (estimate)** | ~€2,740–2,950 |
-| **For two** | ~€5,500–5,900 |
-| **Splurge anchor** | Hakone Suimeisou ryokan, Oct 28–29 |
+| **Total per person (estimate)** | ~€2,730–3,040 |
+| **For two** | ~€5,460–6,080 |
+| **Splurge anchor** | Tensui Saryo ryokan (Gora), Oct 28–29 |
 | **The biggest single risk** | Sat Oct 31 Takayama bookings — hardest night of the trip to secure |
 
 ## Why this shape, briefly

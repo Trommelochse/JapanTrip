@@ -1,6 +1,7 @@
 {
   "region": "hakone",
   "places": [
+    {"name": "Tensui Saryo (ryokan)", "time": "06:30 dawn onsen", "category": "lodging", "lat": 35.25172, "lng": 139.04776, "notes": "In-room rotenburo for the Day 7 dawn soak"},
     {"name": "Gora Station", "query": "Gora Station, Hakone", "time": "09:50", "category": "transit"},
     {"name": "Hakone Tozan Cable Car (Sounzan)", "query": "Sounzan Station, Hakone", "time": "10:00", "category": "transit"},
     {"name": "Owakudani", "query": "Owakudani, Hakone", "time": "10:15", "category": "anchor"},

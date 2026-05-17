@@ -37,7 +37,7 @@ Clemens + Sonja · Tallinn → HND → KIX · 14 nights
 ## Hotels per stop
 
 - [Tokyo hotels](hotels-tokyo.md) — pick: Hotel Graphy Nezu, ~€85–105/night
-- [Hakone hotels](hotels-hakone.md) — pick: Hakone Suimeisou, ~€310–360/night (splurge)
+- [Hakone hotels](hotels-hakone.md) — pick: Tensui Saryo, ~€365–430/night (splurge)
 - [Takayama hotels](hotels-takayama.md) — pick: Sumiyoshi Ryokan, ~€135/night
 - [Kyoto hotels](hotels-kyoto.md) — pick: Hotel Resol Kawaramachi Sanjo, ~€130–175/night
 

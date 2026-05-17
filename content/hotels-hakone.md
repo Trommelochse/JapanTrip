@@ -6,29 +6,18 @@ All rates verified May 17, 2026 against the ryokans' official sites and aggregat
 
 ---
 
-## Pick #1 — Hakone Suimeisou (箱根水明荘) · ~€310–360/night
-
-- **Why this pick:** A small (28-room) riverside ryokan two minutes' walk from Hakone-Yumoto station. *Every* room faces the Hayakawa River — you fall asleep to the water. The Japanese-style room with a private balcony onsen lands neatly in the mid-tier price band while delivering the two things you'd otherwise pay €670+ for: an in-room private rotenburo and in-room kaiseki served on your own tatami. The location also wins on logistics: you can walk to the room with luggage from the station, which matters on a transit-heavy day.
-- **Type:** Traditional ryokan, riverside building, vertical (5 floors). Tatami rooms with futon. The private-onsen rooms have a small wooden tub on a balcony fed by the property's own spring source.
-- **Room type for two:** *Japanese-style Room with Open-air Bath* (10–12 tatami + balcony rotenburo, capacity 4 used by 2). ~¥50,000–58,000/night for two with kaiseki dinner + breakfast (~€305–355). Verified May 17, 2026 via the official site (suimeisou.com) and Rakuten Travel — base entry-level rooms start at ¥27,000 (~€165) but those do not have the balcony bath; the next tier up is the one that matters.
-- **Kaiseki:** Served **in-room** at your low table. Seafood-leaning (Sagami Bay's proximity shows), seasonal — late October brings matsutake, autumn vegetables, and chestnut rice. Breakfast is also in-room, traditional Japanese. Tea pairing only — no alcohol pressure.
-- **Catch:** Building is older mid-rise, not architecturally spectacular like Ginyu — the value sits in the location, the river-facing rooms, and the in-room private soak, not the lobby. Public onsen ("White Heron") is good but small; reserve a slot. Day-trippers occasionally buy bath-only tickets, which can make the public bath busier in afternoon.
-- **Booking:** [suimeisou.com (English)](https://www.suimeisou.com/english/) for the best rate — select the *Japanese-style Room with Open-air Bath* plan with the dinner+breakfast inclusion. Also bookable via [Booking.com](https://www.booking.com/hotel/jp/hakone-suimeiso.html) and Rakuten Travel.
-
----
-
-## Pick #2 — Tensui Saryo (天翠茶寮) · ~€365–430/night
+## Pick #1 — Tensui Saryo (天翠茶寮) · ~€365–430/night
 
 - **Why this pick:** Modern Gora ryokan, 3 minutes from Gora Station, 34 rooms across a main building and detached *hanare* cottages. Hits a sweet spot you don't often find at this price: an in-room private rotenburo *plus* a property-wide free private stone sauna and free reservable rental open-air baths. The dining is a proper multi-course kaiseki, and the "Basic Kaiseki" plan on Ikyu is the one to book — it's exactly what the brief asks for, no upsell pressure. Gora location is the right side of the loop for Day 7's ropeway routing.
 - **Type:** Modern-traditional hybrid. Choose a *detached open-air bath room* if available — those are a small wooden cottage with their own bath. Otherwise, *Main Building Japanese Modern* rooms with private indoor open-air spa.
 - **Room type for two:** *Japanese Modern with Open-Air Bath* (main building, ~36 sqm, queen bed or twin + tatami nook) on the "Basic Kaiseki" plan = ~¥60,000–72,000/night for two with dinner + breakfast (~€365–435). Verified May 17, 2026 via [Ikyu](https://www.ikyu.com/en-us/00002357/10560299/10122468/) and Booking.com. Detached *hanare* rooms run ~¥85,000+ — above tier.
-- **Kaiseki:** Multi-course seasonal kaiseki served in a private dining room (not in-room — most rooms eat in private booth restaurant). Includes one dinner + one breakfast. Free use of a private stone sauna and rental open-air baths is bundled into the "Basic Kaiseki" plan.
-- **Catch:** Larger property than Suimeisou (34 rooms), so it feels slightly less intimate. Dinner is in a restaurant booth, not in your room. Detached cottages are the showpiece but they push out of the target tier. The "Basic Kaiseki" plan is the right call — there are several Tensui plans on Ikyu, and only Basic stays in range.
+- **Kaiseki:** Multi-course seasonal kaiseki served in a private dining room (not in-room — most rooms eat in a private booth restaurant). Includes one dinner + one breakfast. Free use of a private stone sauna and rental open-air baths is bundled into the "Basic Kaiseki" plan.
+- **Catch:** Dinner is in a private restaurant booth, not in your room — you lose the on-tatami in-room dining theatre of a classic ryokan. Detached *hanare* cottages are the showpiece but push out of the target tier. The "Basic Kaiseki" plan is the right call — there are several Tensui plans on Ikyu, and only Basic stays in range.
 - **Booking:** [Ikyu (English)](https://www.ikyu.com/en-us/00002357/10560299/10122468/) for the Basic Kaiseki + private bath plan. Also on [Booking.com](https://www.booking.com/hotel/jp/tensui-saryo.html), [Agoda](https://www.agoda.com/tensui-saryo/hotel/kanagawa-jp.html), and Japanican.
 
 ---
 
-## Pick #3 — Yama-no-Chaya (山の茶屋) · ~€420–460/night
+## Pick #2 — Yama-no-Chaya (山の茶屋) · ~€420–460/night
 
 - **Why this pick:** This is the "stretch the budget by €20" pick. A 17-room family-run ryokan on a forested bend of the Hayakawa, reached by a private suspension bridge — genuine classic-Japan picture-postcard. It's a Ryokan Collection member (same curated group as Gora Kadan and Ginyu), so the kitchen and service standard punch well above the price. Kaiseki is served **in-room** on tatami — that ceremonial element is preserved. Not every room has a private bath, but the riverside public open-air bath is one of the most beautiful in Hakone.
 - **Type:** Classic mountain ryokan, single building, ~50 years old, low-rise, deeply traditional. Walk across a suspension bridge to enter — this is a memory-image-maker. 10-minute walk from Tonosawa Station (one stop from Hakone-Yumoto) or station shuttle.
@@ -41,13 +30,21 @@ All rates verified May 17, 2026 against the ryokans' official sites and aggregat
 
 ## My pick
 
-**Hakone Suimeisou, Japanese-style Room with Open-air Bath, 2 nights = ~€620–710 all-in.**
+**Tensui Saryo, Japanese Modern with Open-Air Bath, Basic Kaiseki plan, 2 nights = ~€730–860 all-in.**
 
-For the 40th-birthday brief at this price tier, this is the call. The three things that make a Hakone ryokan stay memorable are (1) a private soak at any hour, (2) kaiseki served on your own tatami without a restaurant setting, and (3) a sense of place — view, sound, smell. Suimeisou delivers all three: the balcony tub on the river, in-room kaiseki, and the constant sound of the Hayakawa. Yama-no-Chaya beats it on dining and on architectural romance, but loses the private-bath element at this price — and a private 24h rotenburo is the experience non-negotiable for a milestone ryokan stay. Tensui Saryo is the most "modern hotel" of the three and the one to pick only if Suimeisou is sold out for these dates.
+The three things that make a Hakone ryokan stay memorable are (1) a private 24h soak in your own room's bath, (2) a proper multi-course kaiseki, and (3) a sense of place. Tensui Saryo delivers all three: every room has its own private open-air bath (so the **06:30 Day 7 dawn soak**, the trip's signature exception to the 8:00 rule, lives on your own balcony — not a booked slot), the kitchen executes a real seasonal kaiseki on the Basic plan, and the Gora location puts you on the right side of the ropeway/cable-car loop for Day 7. The one trade is dining: you eat in a private restaurant booth rather than on your own tatami, which loses the in-room theatre — but the food itself is the right shape (proper kaiseki, not buffet, not alcohol-forward).
 
-**Splurge ceiling note:** If you'd accept ~€100 more per night for the most beautiful single room of the trip, the *Special Room Asebi* at Yama-no-Chaya (private bath, ~€710/night) is the real upgrade path — not the original €670+ Gora picks. It's roughly the same money as Ginyu but with a classic suspension-bridge ryokan instead of a modern hillside one.
+**Splurge ceiling note:** If you'd accept ~€100 more per night for architectural romance, the *Special Room Asebi* at Yama-no-Chaya (private bath, ~€710/night) is the upgrade path — a classic suspension-bridge ryokan with in-room kaiseki. Roughly Ginyu money, but the experience is older and more traditional.
 
-**Book by mid-July 2026.** When booking, write in the notes: *"No alcohol pairing — please prepare tea service for dinner"* (この旅館の場合、アルコールは結構です。お茶を用意してください). At all three properties this is routine and the kaiseki kitchen will prep a sencha/hojicha matched to courses if you ask.
+**Book by mid-July 2026.** When booking, write in the notes: *"No alcohol pairing — please prepare tea service for dinner"* (この旅館の場合、アルコールは結構です。お茶を用意してください). The kaiseki kitchen will prep a sencha/hojicha matched to courses if you ask.
+
+### Why not the others I considered
+
+- **Hakone Suimeisou** was the original Pick #1 (€310–360, balcony rotenburo on the Hayakawa, in-room kaiseki) but had **no availability for Oct 28–29 by the time I went to book.** If a cancellation opens up, it's still the value pick and worth grabbing.
+- **Musashino Bekkan** (Miyanoshita) — kaiseki in-room, but private baths are 30-min reservable slots, not in-room. Wrong for the dawn-soak ritual; also 3.7/5 with aging-facility complaints.
+- **Hakone Kowakien Mikawaya** — buildings are a registered cultural property but recent reviews flag mold in the in-room private bath, and dinner is in a restaurant, not in-room. Walked away.
+- **Hakone Kowakien Ten-yu** — every room has a private open-air bath, but dinner is a **buffet** with included alcohol. Fundamentally wrong shape for this trip's no-alcohol kaiseki-ritual splurge.
+- **Madoka no Mori / Suishoen / Byakudan** — all genuinely excellent, all push past €600/night. The next bracket up, not the brief.
 
 ---
 
@@ -58,4 +55,4 @@ For reference, the original premium picks were:
 - **Gora Hanaougi** (~€670–820/night) — private open-air bath in every room, Hida-Takayama style, Hida-beef kaiseki.
 - **Gora Kadan** (~€925/night standard, ~€1,850 for Annex Suite with private bath) — Relais & Châteaux, the benchmark Hakone luxury ryokan.
 
-If after seeing the mid-tier picks the splurge instinct comes back, Ginyu is the one that justifies its premium — and the gap between Suimeisou's balcony tub and Ginyu's gorge-overhang rotenburo is real. But the brief here is a sane €300–400 anchor, and Suimeisou clears it.
+If after seeing the mid-tier picks the splurge instinct comes back, Ginyu is the one that justifies its premium — gorge-overhang rotenburo in every room, in-room kaiseki. But the brief here is a sane €300–450 anchor, and Tensui Saryo clears it without the splurge-regret risk.

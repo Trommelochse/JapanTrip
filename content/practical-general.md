@@ -58,7 +58,7 @@ Get a data eSIM before departure. Reliable options:
 
 10–20 GB for 14 days is plenty for two travelers (~€15–25 pp). **Data-only is fine** — you don't need a Japanese phone number. WhatsApp / iMessage / Signal cover messaging.
 
-**Wi-Fi at every hotel and ryokan** including Sumiyoshi and Hakone Suimeisou. Cafes, konbini (7-Eleven, Lawson, Family Mart), and major train stations all have free open Wi-Fi.
+**Wi-Fi at every hotel and ryokan** including Sumiyoshi and Tensui Saryo. Cafes, konbini (7-Eleven, Lawson, Family Mart), and major train stations all have free open Wi-Fi.
 
 ## Etiquette quick hits
 
@@ -72,7 +72,7 @@ The ones that actually matter day-to-day:
 - **Bow slightly** when thanking, when entering shops, when receiving something with two hands. Don't overdo it.
 - **Don't blow your nose at the table.** Excuse yourself.
 - **Slurping noodles is fine.** Encouraged, even.
-- **Onsen rules:** wash and rinse fully at the seated showers BEFORE entering the bath. No swimsuits. No towel in the water. Tie long hair up. No phones in any onsen area, ever. Most splurge ryokans accommodate tattoos quietly (Hakone Suimeisou: ask at check-in; small tattoos are usually fine).
+- **Onsen rules:** wash and rinse fully at the seated showers BEFORE entering the bath. No swimsuits. No towel in the water. Tie long hair up. No phones in any onsen area, ever. Most splurge ryokans accommodate tattoos quietly in private in-room baths; Tensui Saryo's public bath has a stricter no-tattoo policy — your in-room rotenburo bypasses that entirely.
 
 ## Weather window (Oct 23 – Nov 6)
 

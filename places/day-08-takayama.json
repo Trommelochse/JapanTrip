@@ -3,6 +3,13 @@
   "region": "takayama",
   "places": [
     {
+      "name": "Tensui Saryo (depart)",
+      "time": "08:00 last soak",
+      "category": "lodging",
+      "lat": 35.25172,
+      "lng": 139.04776
+    },
+    {
       "name": "Odawara Station",
       "time": "10:43",
       "category": "transit",

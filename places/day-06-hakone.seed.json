@@ -5,6 +5,7 @@
     {"name": "Hakone-Yumoto Station", "query": "Hakone-Yumoto Station", "time": "12:30", "category": "transit"},
     {"name": "Gora Station", "query": "Gora Station, Hakone", "time": "13:10", "category": "transit"},
     {"name": "Tamura Ginkatsu-tei", "query": "Tamura Ginkatsu-tei, Gora, Hakone", "time": "13:15", "category": "lunch"},
+    {"name": "Tensui Saryo (ryokan)", "time": "14:30 check-in", "category": "lodging", "lat": 35.25172, "lng": 139.04776, "notes": "3 min from Gora Station; in-room private rotenburo"},
     {"name": "Hakone Museum of Art (moss garden)", "query": "Hakone Museum of Art, Gora", "time": "15:30 optional", "category": "anchor"}
   ]
 }

@@ -25,7 +25,7 @@
 - **22:00** — Futon already laid out. Sleep.
 
 ## Rain plan B
-The day is already largely indoor. If a typhoon tail brings heavy rain on the way in: skip the Gora lunch wander and head straight to the ryokan from Hakone-Yumoto by taxi (~¥4,000, 25 min). The ryokan will hold your room early on request. Use the extra time for a longer pre-dinner onsen.
+The day is already largely indoor. If a typhoon tail brings heavy rain on the way in: skip the Gora lunch wander and head straight to the ryokan from Hakone-Yumoto by taxi (~¥2,500–3,000 to Gora, 15–20 min). Tensui Saryo will hold your room early on request. Use the extra time for a longer pre-dinner onsen.
 
 ## Photography golden hour
 - **Sunset (~17:00):** From the ryokan's rotenburo or balcony — the Hakone caldera fills with low light. Most splurge ryokans face west or south-west for exactly this reason.

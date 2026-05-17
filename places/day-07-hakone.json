@@ -3,6 +3,14 @@
   "region": "hakone",
   "places": [
     {
+      "name": "Tensui Saryo (ryokan)",
+      "time": "06:30 dawn onsen",
+      "category": "lodging",
+      "lat": 35.25172,
+      "lng": 139.04776,
+      "notes": "In-room rotenburo for the Day 7 dawn soak"
+    },
+    {
       "name": "Gora Station",
       "time": "09:50",
       "category": "transit",

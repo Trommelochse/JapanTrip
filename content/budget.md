@@ -14,13 +14,13 @@ All prices verified 2026-05-17 via Booking.com, hotel direct sites, JR Central, 
 | Inter-city trains (Shinkansen, Romancecar, Hida, Haruka, Hakone Free Pass, Nohi Bus) | ~€290 |
 | Local transit (Suica top-ups, Kyoto buses, taxis) | ~€50 |
 | Luggage forwarding (Takkyubin, 2 legs) | ~€25 |
-| Accommodation (5 Tokyo + 2 Hakone + 3 Takayama + 4 Kyoto) | **~€1,000–1,150** |
+| Accommodation (5 Tokyo + 2 Hakone + 3 Takayama + 4 Kyoto) | **~€1,030–1,290** |
 | Food (~14 days, factoring in kaiseki-included Hakone nights) | ~€400–450 |
 | Activities + entrance fees | ~€135 |
 | Miscellaneous (eSIM, insurance, IC card load, postcard postage, souvenirs) | ~€100 |
 | | |
-| **Total per person** | **~€2,700–2,900** |
-| **For two** | **~€5,400–5,800** |
+| **Total per person** | **~€2,730–3,040** |
+| **For two** | **~€5,460–6,080** |
 
 ## Accommodation breakdown
 
@@ -29,10 +29,10 @@ Prices are **per room for 2 people**, except where noted. Divide by 2 for per-pe
 | City | Nights | Hotel pick | Per night (room) | Per person, total | Notes |
 |---|---|---|---|---|---|
 | Tokyo | 5 | Hotel Graphy Nezu | ~€85–105 | ~€213–263 | Twin room, private bath, no meals |
-| Hakone | 2 | Hakone Suimeisou (Yumoto, riverside) | ~€310–360 | ~€310–360 | Private balcony onsen + in-room kaiseki + breakfast |
+| Hakone | 2 | Tensui Saryo (Gora) | ~€365–430 | ~€365–430 | In-room private open-air bath + kaiseki in private dining booth + breakfast |
 | Takayama | 3 | Sumiyoshi Ryokan | ~€135 | ~€203 | Japanese-style room w/ breakfast; dinner out |
 | Kyoto | 4 | Hotel Resol Kyoto Kawaramachi Sanjo | ~€130–175 | ~€260–350 | Twin room, no meals |
-| | | | **Total** | **~€976–1,216** | |
+| | | | **Total** | **~€1,031–1,286** | |
 
 ## Inter-city train fares — per person
 
