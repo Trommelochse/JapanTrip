@@ -8,23 +8,23 @@
 
 ### Morning — Tokyo to Kamakura
 
-- **07:30** — Breakfast: konbini or a station bakery. Quick.
-- **08:15** — **JR Yokosuka Line from Tokyo Station** (track 1–4, underground level) direct to **Kamakura**. ~57 min, ¥950 one-way, no reservation needed. Sit on the right for the brief glimpse of Tokyo Bay. (From Shinagawa or Shimbashi works too — same train passes through.) Monday morning is quieter than weekend trains by an order of magnitude.
-- **09:15** — Arrive Kamakura. Transfer to the **Enoden (Enoshima Electric Railway)** at the adjacent platform — buy the **Enoden 1-day pass (¥800)** if you'll hop on/off, or single tickets (¥200 each).
-- **09:30** — Enoden two stops to **Hase**.
+- **08:00** — Breakfast: konbini or a station bakery. Quick.
+- **08:45** — **JR Yokosuka Line from Tokyo Station** (track 1–4, underground level) direct to **Kamakura**. ~57 min, ¥950 one-way, no reservation needed. Sit on the right for the brief glimpse of Tokyo Bay. (From Shinagawa or Shimbashi works too — same train passes through.) Monday morning is quieter than weekend trains by an order of magnitude.
+- **09:45** — Arrive Kamakura. Transfer to the **Enoden (Enoshima Electric Railway)** at the adjacent platform — buy the **Enoden 1-day pass (¥800)** if you'll hop on/off, or single tickets (¥200 each).
+- **10:00** — Enoden two stops to **Hase**.
 
 ### Hase loop
 
-- **09:40–11:00** — **Hase-dera** · 3-11-2 Hase · ¥400 · open 08:00–16:30 (Oct–Feb). Hillside temple, famous 9m wooden Kannon, but the actual draw is the **upper observation terrace overlooking Sagami Bay** and the moss gardens on the way up. Climb to the top, sit. Crowd is moderate Monday morning, not packed. Allocate 1h15.
-- **11:15–12:00** — **Kotoku-in (Great Buddha)** · 4-2-28 Hase · ¥300, +¥50 to crawl inside the statue · open 08:00–17:30 (Oct–Mar 08:00–17:00). 5 min walk uphill from Hase-dera. The 13.4m bronze Amida Buddha has sat under open sky since the 1498 tsunami took out its hall — the open-air composition is the unusual thing. 45 min is enough; don't over-stay.
-- **12:15 — Lunch: Kamakura Matsubara-an** · 4-10-3 Hase · soba in a renovated 80-year-old house, 3 min walk from Hase station. Duck seiro is the order. ~¥1,800. Open 11:30–14:30 lunch, **Monday is open** (check on the day to be safe — they close one weekday but it rotates). Reservations help but walk-ins around 12:00–12:15 usually OK.
+- **10:10–11:25** — **Hase-dera** · 3-11-2 Hase · ¥400 · open 08:00–16:30 (Oct–Feb). Hillside temple, famous 9m wooden Kannon, but the actual draw is the **upper observation terrace overlooking Sagami Bay** and the moss gardens on the way up. Climb to the top, sit. Crowd is moderate Monday morning, not packed. Allocate 1h15.
+- **11:35–12:20** — **Kotoku-in (Great Buddha)** · 4-2-28 Hase · ¥300, +¥50 to crawl inside the statue · open 08:00–17:30 (Oct–Mar 08:00–17:00). 5 min walk uphill from Hase-dera. The 13.4m bronze Amida Buddha has sat under open sky since the 1498 tsunami took out its hall — the open-air composition is the unusual thing. 45 min is enough; don't over-stay.
+- **12:30 — Lunch: Kamakura Matsubara-an** · 4-10-3 Hase · soba in a renovated 80-year-old house, 3 min walk from Hase station. Duck seiro is the order. ~¥1,800. Open 11:30–14:30 lunch, **Monday is open** (check on the day to be safe — they close one weekday but it rotates). Reservations help but walk-ins around 12:15–12:30 usually OK.
 - **Backup lunch:** **Kamakura Kitahashi** (Hase area, soba in a 100+ year-old wooden building), 11:00–15:00. Or **Hase Shokudo** for shirasu (whitebait) rice bowls — the local specialty.
 
 ### Afternoon
 
-- **13:45** — Enoden back one stop to **Yuigahama** OR walk 10 min south.
-- **13:45–14:30** — **Yuigahama Beach.** 10–15 min of just standing on the sand looking at the Pacific. Late October the beach is empty. The vibe is the destination, not anything to "do."
-- **14:30** — Enoden to **Kamakura Station** (or walk 25 min north along the Wakamiya-oji avenue, the old shrine approach — actually preferable if energy is OK; passes through the original 13th-century street grid).
+- **14:00** — Enoden back one stop to **Yuigahama** OR walk 10 min south.
+- **14:00–14:40** — **Yuigahama Beach.** 10–15 min of just standing on the sand looking at the Pacific. Late October the beach is empty. The vibe is the destination, not anything to "do."
+- **14:40** — Enoden to **Kamakura Station** (or walk 25 min north along the Wakamiya-oji avenue, the old shrine approach — actually preferable if energy is OK; passes through the original 13th-century street grid).
 
 ### Wander block — Komachi-dori + side lanes
 

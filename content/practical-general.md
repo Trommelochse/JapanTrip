@@ -109,7 +109,7 @@ Notable Japanese quirk: **almost no public trash bins anywhere.** Carry your was
 - **Shiroyama viewpoint Shirakawa-go** can get spotty at peak congestion
 - **Inside some Kyoto temples** (especially Saiho-ji, where you don't have your phone out anyway)
 - **The Hida Wide View train** through the deep gorges — short patches of no signal, plan downloads accordingly
-- **Pre-dawn Fushimi Inari** is fine, but the upper trails past Yotsutsuji can drop service
+- **Mountain temple grounds** (e.g., upper Higashiyama trails behind Shiroyama Park, Takayama) can drop service
 
 ## Health insurance reminder
 

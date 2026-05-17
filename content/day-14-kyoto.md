@@ -1,6 +1,6 @@
 # Day 14 — Thu, Nov 5, 2026 — Kyoto (Arashiyama + Saiho-ji)
 
-> **Theme:** Bamboo grove before the buses arrive, shojin-ryori lunch in a Zen temple, then a 90-minute sutra-copying meditation followed by the most famous moss garden in Japan. This is the depth day.
+> **Theme:** Two quiet Muso-Soseki anchors in the morning (Tenryu-ji + Okochi Sanso), shojin-ryori lunch in a Zen temple, then a 90-minute sutra-copying meditation followed by the most famous moss garden in Japan. This is the depth day.
 > **Weather (typical):** 8–17°C. Crisp. Slight chance of overcast — which is *good* for moss.
 > **Walking:** High — 9 km, plus the sutra session is sit-on-tatami stillness for 60–90 min.
 
@@ -11,12 +11,14 @@ You will have **mailed a postcard reservation request in early September 2026** 
 ## Schedule
 
 ### Morning
-- **06:30** — Wake. Hotel breakfast or a konbini stop.
-- **07:15** — JR Sagano Line from Kyoto Station → **Saga-Arashiyama** (15 min, ¥250). Or Hankyu from Kawaramachi → Hankyu-Arashiyama via Katsura (slightly longer, ¥240). JR is faster.
-- **07:45** — Arrive **Arashiyama**. Walk straight to the **Bamboo Grove**. Open 24h, free, no gate. At 08:00 you'll share the main grove path with maybe 20 other photographers and zero tour groups. By 09:30 it's a cattle pen. The grove proper is short — 15 minutes end-to-end. Walk to the **Okochi Sanso Villa** at the far end if you want the silk-actor's private garden + matcha (¥1,000, opens 09:00) — sleeper pick.
-- **08:30** — **Tenryu-ji** (¥500 garden, +¥300 buildings). UNESCO. The **Sogen-chi pond garden** designed by Muso Soseki in 1339 is the original Zen-garden masterpiece — the borrowed-scenery view incorporates Arashiyama's mountain backdrop. Walk the full loop, exit at the **north gate directly into the back of the bamboo grove** — a hack to re-experience the grove from the other end.
-- **10:00** — Walk to the **Togetsukyo Bridge** for the river view. The Hozugawa cuts through mountains here; the bridge view with Arashiyama foliage behind is the iconic Arashiyama shot.
-- **10:30** — Coffee / snack: **% Arabica Arashiyama** (riverfront, west bank). Will have a line. Tolerate or skip — **Saga Tofu Ine** does a tofu-pudding (*tofu pudding*) snack instead, a few blocks back.
+- **08:00** — Wake. Hotel breakfast or a konbini stop.
+- **08:30** — JR Sagano Line from Kyoto Station → **Saga-Arashiyama** (15 min, ¥250). Or Hankyu from Kawaramachi → Hankyu-Arashiyama via Katsura (slightly longer, ¥240). JR is faster.
+- **08:50** — Arrive **Arashiyama**. Walk 10 min to **Tenryu-ji**. The bamboo grove pre-crowd window (07:30–09:00) is unreachable under the 8:00-rule, so the day is rebuilt around two quieter Muso-Soseki anchors: **Tenryu-ji at opening** and **Okochi Sanso Villa at opening.** Both are paid gardens and stay calm through mid-morning.
+- **09:00–10:00** — **Tenryu-ji** (¥500 garden, +¥300 buildings). UNESCO. The **Sogen-chi pond garden** designed by Muso Soseki in 1339 is the original Zen-garden masterpiece — the borrowed-scenery view incorporates Arashiyama's mountain backdrop. Walk the full loop. Exit at the **north gate directly into the back of the bamboo grove**.
+- **10:00–10:15** — Walk through the **bamboo grove** from Tenryu-ji's north gate to Okochi Sanso. By 10:00 it is genuinely crowded — but you're walking *through*, not stopping. 15 min, treat it as a corridor, not a destination.
+- **10:15–11:00** — **Okochi Sanso Villa** (¥1,000, includes matcha). The silk-actor Denjiro Okochi's private mountain garden, completed in 1934. The ¥1,000 gatekeep keeps it nearly empty even at peak. Walk the hillside paths through pine and maple; sit in the tea house with matcha and a sweet looking down across Arashiyama and the Hozugawa gorge. **This is the day's morning anchor** — the sleeper pick from the original plan, now moved to center stage.
+- **11:00–11:25** — Walk back via the bamboo grove (south) to the **Togetsukyo Bridge** for the river view. The Hozugawa cuts through mountains here; the bridge view with Arashiyama foliage behind is the iconic Arashiyama shot.
+- **11:25** — Optional: **% Arabica Arashiyama** (riverfront, west bank) coffee if no line, or **Saga Tofu Ine** for a tofu-pudding snack a few blocks back. Lunch is right after, so keep it light.
 
 ### Lunch
 - **11:30** — Lunch: **Shigetsu** at Tenryu-ji — *shojin-ryori* (Buddhist vegetarian temple cuisine) served in a Zen temple hall on tatami, looking out at the temple gardens. Three set courses at ¥4,000 / ¥6,000 / ¥8,000. Open 11:00–14:00, reservations required (phone 075-882-9725 or via hotel; usually bookable a few days ahead). Closed irregular — verify. **This is the food anchor of the day** — pure technique, no animal protein, Kyoto-Zen lineage. It's the meal Clemens will remember.
@@ -38,9 +40,10 @@ You will have **mailed a postcard reservation request in early September 2026** 
 Saiho-ji is happiest in light rain — moss glows green and the crowd is even smaller. Take an umbrella. Bamboo grove is fine wet. **Cut Philosopher's Path** (the canal-side walk loses appeal in real rain) and instead: head back to central Kyoto and try the **Hosomi Museum** (Okazaki) or **National Museum of Modern Art Kyoto** until dinner.
 
 ## Photography golden hour
-- **Sunrise (~06:25):** You're not at a viewpoint today; not the priority. If the morning is bright, get to the bamboo grove by 07:30 sharp — the diagonal early light through the bamboo is the better light than mid-morning haze.
+- **Sunrise (~06:25):** Skipped on this iteration. The pre-crowd bamboo grove is dropped from the schedule under the 8:00 rule.
 - **Sunset (~17:00):** Togetsukyo Bridge from the *south* bank looking northwest catches Arashiyama mountains rim-lit — but you'll be at Saiho-ji at this hour. Alternative: Philosopher's Path canal at dusk (17:15–17:45).
 - Saiho-ji: **photography is restricted inside the main hall** during sutra copying. Garden is OK, hand-held only, no tripod, no flash.
+- Okochi Sanso: the tea-house terrace looking south over Arashiyama mid-morning is the unobvious frame today.
 
 ## Reservations needed for this day
 - **Saiho-ji** — postcard mailed early September 2026. See `practical-kyoto.md`.
@@ -48,7 +51,8 @@ Saiho-ji is happiest in light rain — moss glows green and the crowd is even sm
 - **Monk** (or alternative dinner) — 1–2 weeks ahead.
 
 ## Off-path notes
-- **Okochi Sanso Villa** at the end of the bamboo grove is paid (¥1,000) and includes matcha — that gatekeep keeps it almost empty even at peak. It's the silent-film-actor Denjiro Okochi's private mountain garden, completed in 1934. Sleeper.
+- **Okochi Sanso Villa** is the morning anchor now, not a side option. The ¥1,000 gatekeep + the 15-min walk through the bamboo grove makes it almost empty even at peak hours. With Tenryu-ji it gives you two Muso-Soseki-and-Okochi quiet experiences before the noon Shigetsu lunch.
+- **Bamboo grove note:** the grove is no longer a destination, just the path from Tenryu-ji's north gate to Okochi Sanso. Walk through, don't stop. The pre-crowd shot is the price of the new schedule.
 - **Suzumushi-dera** (Bell Cricket Temple) is a niche pick. The dharma talk is performance; the bell-cricket sound is genuinely strange and lovely.
 - **Saiho-ji's sutra-copying** is *the* thing — many visitors feel rushed and tense through it because they came for the moss garden. Lean into it. The brush goes slow. You're sitting on tatami in a 14th-c. hall. You came for this.
 - The Tenryu-ji → Saiho-ji chain is meaningful: both gardens designed by the same monk in the same decade. Same hands, same Zen-garden grammar, two completely different moods. Notice it.

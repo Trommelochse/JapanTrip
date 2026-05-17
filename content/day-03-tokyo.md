@@ -8,11 +8,11 @@
 
 ### Morning
 
-- **07:30** — Hotel coffee. Move early; Meiji Jingu is transformed by being there before the day crowd.
-- **08:30** — Train to **Harajuku** (Yamanote) or **Meiji-jingumae** (Chiyoda).
-- **08:45–10:30** — **Meiji Jingu** · free · opens at sunrise (≈05:45 in late Oct), closes around 17:00 in October. Enter from the south (Harajuku) torii, walk slowly through the 700,000-tree forest planted 1920 for the emperor's memorial — every tree donated from across Japan, no two species in the same cluster. Main shrine compound is plain wood, no gold, deliberately restrained. **Inner Garden (¥500)** is worth the extra ticket — Empress Shoken's iris garden, mostly quiet, has the small Kiyomasa's Well that's a low-key power-spot. Allocate full 90 min.
-- **10:45** — Walk through Yoyogi Park east edge → out to Omotesando.
-- **11:15** — Coffee: **The Roastery by Nozy Coffee** (5-17-13 Jingumae, on Cat Street) for a single-origin pourover. Or **Bear Pond Espresso** if you want the angular barista experience (4-29-9 Jingumae).
+- **08:00** — Hotel coffee. Meiji Jingu still absorbs late-October Sunday crowds well at 09:00–10:30; you lose the truly empty 08:00 forest but keep most of the calm.
+- **09:00** — Train to **Harajuku** (Yamanote) or **Meiji-jingumae** (Chiyoda).
+- **09:15–10:45** — **Meiji Jingu** · free · opens at sunrise (≈05:45 in late Oct), closes around 17:00 in October. Enter from the south (Harajuku) torii, walk slowly through the 700,000-tree forest planted 1920 for the emperor's memorial — every tree donated from across Japan, no two species in the same cluster. Main shrine compound is plain wood, no gold, deliberately restrained. **Inner Garden (¥500)** is worth the extra ticket — Empress Shoken's iris garden, mostly quiet, has the small Kiyomasa's Well that's a low-key power-spot. Allocate full 90 min.
+- **10:55** — Walk through Yoyogi Park east edge → out to Omotesando.
+- **11:20** — Coffee: **The Roastery by Nozy Coffee** (5-17-13 Jingumae, on Cat Street) for a single-origin pourover. Or **Bear Pond Espresso** if you want the angular barista experience (4-29-9 Jingumae).
 
 ### Lunch
 

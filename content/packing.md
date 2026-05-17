@@ -55,7 +55,7 @@ The "if everything else is lost, we're still fine" bag.
 
 **Layers.** Base = merino t-shirts and one long-sleeve. Mid = one fleece + one Ultra Light Down. Outer = one packable rain shell. The combination of fleece + down + shell handles the Shirakawa-go Nov 1 dawn (~2°C); strip to base + shell for Tokyo's 18°C afternoons.
 
-**Footwear.** **One** pair of broken-in walking shoes (you'll log 15–20 km on Day 13 alone — Fushimi Inari + Tofuku-ji + Gion) plus **one** pair of slip-on sneakers or loafers for ryokan + temple visits where you'll be removing shoes constantly. Saiho-ji, every ryokan, Hida Folk Village, most kaiseki spots = shoes off. Laces are friction.
+**Footwear.** **One** pair of broken-in walking shoes (you'll log 10–12 km on a typical Kyoto day, more on Day 14 with Arashiyama + Saiho-ji) plus **one** pair of slip-on sneakers or loafers for ryokan + temple visits where you'll be removing shoes constantly. Saiho-ji, every ryokan, Hida Folk Village, most kaiseki spots = shoes off. Laces are friction.
 
 **Ryokan socks.** You will be visibly sock-footed in front of attendants and other guests. Pack two pairs of *unembarrassing* socks — solid color, no holes, no hotel-freebie polyester. This is the easiest dignity upgrade you'll make.
 

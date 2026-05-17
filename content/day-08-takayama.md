@@ -7,8 +7,8 @@
 ## Schedule
 
 ### Morning
-- **07:30** — Last morning soak at the Hakone ryokan, then breakfast. Don't rush this; the train story below has slack.
-- **09:00** — **Hand bags to the ryokan front desk for Takkyubin (Yamato Transport)** forwarding direct to the Takayama ryokan. Address card in Japanese pre-printed from your booking confirmation. Pay ~¥2,000/bag. Travel with daypacks only — see `practical-takayama.md`.
+- **08:00** — Last morning soak at the Hakone ryokan, then breakfast. Don't rush this; the train story below has slack.
+- **09:15** — **Hand bags to the ryokan front desk for Takkyubin (Yamato Transport)** forwarding direct to the Takayama ryokan. Address card in Japanese pre-printed from your booking confirmation. Pay ~¥2,000/bag. Travel with daypacks only — see `practical-takayama.md`.
 - **09:45** — Hakone Tozan train / bus down to Odawara · 40–50 min depending on origin (Gora vs. Sengokuhara).
 - **10:43** — **Shinkansen Hikari 503 Odawara → Nagoya** · ~1h 40min · ¥10,560 unreserved-ish; reserve seats D/E (right side) for Mt. Fuji views on a clear morning. Book via SmartEX app a week ahead.
 - **12:25** — Arrive Nagoya. You have ~50 minutes. Don't wander — head straight to the JR side, platforms 10/11.

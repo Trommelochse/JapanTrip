@@ -8,7 +8,7 @@
 - **Skip the bus pass.** The Kyoto one-day bus pass (¥700) only pays off if you take 4+ rides; for this itinerary you mostly use buses on Day 12 (Ohara) and Day 14 (Saiho-ji from Arashiyama). ICOCA is cleaner.
 - **Subway is fastest for cross-town moves** — Karasuma Line (north-south) and Tozai Line (east-west, runs through Higashiyama). Use it when you can. ¥220–360 per ride.
 - **Walking inside Higashiyama is faster than the bus** — Yasaka → Kiyomizu via Sannenzaka is 12 min on foot, 25 min by bus including waits.
-- **Taxis** are reasonable (¥500 starter, ¥80/250m), useful for Saiho-ji's awkward access and pre-dawn Fushimi Inari runs from central hotels. JapanTaxi or DiDi apps work.
+- **Taxis** are reasonable (¥500 starter, ¥80/250m), useful for Saiho-ji's awkward access. JapanTaxi or DiDi apps work.
 
 ## Saiho-ji (Kokedera) postcard reservation — step by step
 
@@ -75,4 +75,4 @@ The reservation is **mandatory**. Walk-ins are turned away. The reservation syst
 
 Your 5 Kyoto nights deliberately *exclude* a Nara day trip. Nara would slot reasonably on Day 12 (Culture Day) — but Nara on Culture Day is also a national meltdown, and Ohara is the better escape. Nara on Day 14 conflicts with Saiho-ji. The skeleton holds.
 
-If you genuinely want Nara, the cleanest swap is: drop **Day 13's Tofuku-ji** (foliage isn't peak anyway) and substitute a **Nara half-day** (Todai-ji + Kasuga Taisha + deer park, JR Nara Line 45 min each way). Day 13 would then be: Fushimi Inari pre-dawn → Nara 11:00–16:00 → back to Gion for evening. Workable. The trade is: lose a Kyoto-depth temple (Tofuku-ji), gain a different-city change of pace and the deer experience for Sonja. Flagging as an optional, not a recommendation.
+If you genuinely want Nara, the cleanest swap is: drop **Day 13's Tofuku-ji + Sanjusangen-do morning** (foliage isn't peak at Tofuku-ji anyway) and substitute a **Nara half-day** (Todai-ji + Kasuga Taisha + deer park, JR Nara Line 45 min each way). Day 13 would then be: depart Kyoto ~09:00 → Nara 10:00–15:30 → back to Gion for evening. Workable. The trade is: lose a Kyoto-depth temple morning (Tofuku-ji's Shigemori gardens + the 1,001 Kannon), gain a different-city change of pace and the deer experience for Sonja. Flagging as an optional, not a recommendation.

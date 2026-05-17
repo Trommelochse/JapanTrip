@@ -1,17 +1,17 @@
 # Day 9 — Saturday, Oct 31 2026 — Takayama
 
 > **Theme:** Slow Takayama — morning market, Hida-no-Sato in foliage, Higashiyama temple loop at dusk.
-> **Weather (typical):** 4–14°C, dry. Frost possible at dawn. Bring gloves for the 7am market.
+> **Weather (typical):** 4–14°C, dry. Frost possible at dawn. Bring gloves for the morning market — it's chilly even at 09:00.
 > **Walking:** Medium–high (≈8–10 km across the day, mostly flat with one moderate climb on the Higashiyama course).
 
 ## Schedule
 
 ### Morning
-- **07:00** — Ryokan breakfast (most serve 7:30–9:00 — confirm at check-in if you want the earlier slot).
-- **07:45** — Walk to the **Miyagawa Morning Market** along the east bank of the river · 5–10 min from most ryokans. Open 7:00–12:00. About 50 stalls — pickles (*akakabu*, the red Hida turnip), miso, *sarubobo* dolls (the faceless red baby doll, regional talisman), seasonal fruit, flowers. The energy is local-quiet; vendors are mostly farmers and their wives, not performers. **Cash.** Also walk through **Jinya-mae Market** (the smaller, often-better one in front of Takayama Jinya), 7:00–12:00. Smaller, slightly more food-stall oriented.
-- **09:00** — **Takayama Jinya** · 1-5 Hachikenmachi · ¥440 · 8:45–17:00 · The only surviving Edo-period provincial government office in Japan. 60 tatami rooms, original kitchens, the torture-interrogation room (yes, really), and a giant rice storehouse out back. Allow 60–75 min. The garden is small but well-composed.
-- **10:30** — Coffee: **Falò** · 32-2 Honmachi · third-wave roaster in an old machiya, opens 9:00, closed Wed. Single-origin pour-over ¥600. Sonja: the *anko-butter toast* is excellent. Clemens: ask the barista what they're roasting that week.
-- **11:30** — Bus #2 (Sarubobo Bus, ¥100) or 30-min walk to **Hida-no-Sato (Hida Folk Village)**. Walk is uphill but scenic if dry.
+- **08:00** — Ryokan breakfast (standard 7:30–9:00 window; the 08:00 slot is comfortable).
+- **08:45** — Walk to the **Miyagawa Morning Market** along the east bank of the river · 5–10 min from most ryokans. Open 7:00–12:00. About 50 stalls — pickles (*akakabu*, the red Hida turnip), miso, *sarubobo* dolls (the faceless red baby doll, regional talisman), seasonal fruit, flowers. By 09:00 the morning-light "farmer's energy" is softer than the 07:30 peak but vendors are still active until 11:00. **Cash.** Also walk through **Jinya-mae Market** (the smaller, often-better one in front of Takayama Jinya), 7:00–12:00. Smaller, slightly more food-stall oriented.
+- **09:45** — **Takayama Jinya** · 1-5 Hachikenmachi · ¥440 · 8:45–17:00 · The only surviving Edo-period provincial government office in Japan. 60 tatami rooms, original kitchens, the torture-interrogation room (yes, really), and a giant rice storehouse out back. Allow 60–75 min. The garden is small but well-composed.
+- **11:00** — Coffee: **Falò** · 32-2 Honmachi · third-wave roaster in an old machiya, opens 9:00, closed Wed. Single-origin pour-over ¥600. Sonja: the *anko-butter toast* is excellent. Clemens: ask the barista what they're roasting that week.
+- **11:40** — Bus #2 (Sarubobo Bus, ¥100) or 30-min walk to **Hida-no-Sato (Hida Folk Village)**. Walk is uphill but scenic if dry.
 
 ### Afternoon
 - **12:00** — Lunch at **Suzuya** · 24 Hanakawamachi · the old-town Hida beef institution. No reservations — go now while old-town is at lunch peak elsewhere. Wait will be 15–30 min Saturday. Order the **Hida beef hōba-miso teishoku** (¥3,500). 11:00–15:00 / 17:00–20:00, closed Tue. *Alternative if line is more than 40 min:* **Ohitsu Gohan Shirakawa** (Sannomachi), or **Center4 Hamburgers** for the Hida-beef burger (genuinely good, more casual).

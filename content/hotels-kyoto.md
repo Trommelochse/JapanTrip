@@ -58,7 +58,7 @@ Prices verified May 17, 2026 via Booking.com / official sites. November 2026 is 
 
 **Hotel Resol Kyoto Kawaramachi Sanjo** for 4 nights — twin room, ~€130–175/night. ~€520–700 for both across 4 nights.
 
-Reasoning: Kyoto days run 06:00 pre-dawn at Fushimi Inari to 21:30 night walks through Gion. The hotel is a base for sleep and showers, not a destination. Resol drops you within walking distance of Nishiki, Pontocho, Gion (across the Kamogawa), and the Karasuma subway — the four places you'll actually be — and at €130–175 the per-night savings vs. Tassel's €225–275 or Sowaka's €560+ goes much further on food, museum tickets, and the Hakone ryokan.
+Reasoning: Kyoto days run 08:00 hotel breakfast to 21:30 night walks through Gion. The hotel is a base for sleep and showers, not a destination. Resol drops you within walking distance of Nishiki, Pontocho, Gion (across the Kamogawa), and the Karasuma subway — the four places you'll actually be — and at €130–175 the per-night savings vs. Tassel's €225–275 or Sowaka's €560+ goes much further on food, museum tickets, and the Hakone ryokan.
 
 If the Resol shows full when you go to book: **Hotel The Celestine Kyoto Gion** (~€150–200, public bath on the top floor) is the equivalent fallback in a slightly more atmospheric location.
 

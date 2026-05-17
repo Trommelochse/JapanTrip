@@ -13,8 +13,8 @@
 ## Schedule
 
 ### Morning
-- **07:30** — Hotel breakfast and a slow check-out (most Kyoto hotels are 11:00; if your flight is later than 14:00 you have plenty of room).
-- **08:30** — Walk to **Nishiki Market** (it runs east-west from Teramachi to Takakura, just north of Shijo). Most stalls open 09:00–18:00. Going early-mid morning means you can actually walk it without elbowing.
+- **08:00** — Hotel breakfast and a slow check-out (most Kyoto hotels are 11:00; if your flight is later than 14:00 you have plenty of room).
+- **08:45** — Walk to **Nishiki Market** (it runs east-west from Teramachi to Takakura, just north of Shijo). Most stalls open 09:00–18:00. Going at opening means you can actually walk it without elbowing.
 - **09:00–10:30** — **Wander block: Nishiki Market.** Specific picks from west (Takakura) to east (Teramachi):
   - **Aritsugu** — knife maker since 1560. They will engrave your name in kanji on a purchased knife for free. If Clemens or Sonja have ever wanted a Japanese knife, this is the moment. Tax-free for tourists.
   - **Mochitsuki Daikokuya** — fresh mochi pounded right there.

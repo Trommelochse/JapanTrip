@@ -7,7 +7,7 @@
 ## Schedule
 
 ### Morning
-- **07:30** — Hotel breakfast in Takayama, last walk through Sanmachi if you want one. Forward main bags via Yamato to the Kyoto hotel (next-day delivery; ~¥2,000/bag). Travel with carry-ons only — the Hida is cramped.
+- **08:00** — Hotel breakfast in Takayama. Forward main bags via Yamato to the Kyoto hotel (next-day delivery; ~¥2,000/bag). Travel with carry-ons only — the Hida is cramped. **Note:** the optional last walk through Sanmachi is dropped on this iteration — the 08:34 train is tight against an 08:00 breakfast. Ask the ryokan to plate a faster set; they will, this is a normal request.
 - **08:34** — Limited Express **Hida #36** from Takayama Station, direct to Kyoto (Sun/holiday timing; weekday departure 08:31). Reserved seats on the **right (D side)** — the Hida River gorge runs on that side until Gero. Bento from a Takayama Miyagawa-market stall the night before, or pick up *Hidagyu-bento* at the station kiosk. ~3h 43min, ¥8,360.
 - **~12:14** — Arrive **Kyoto Station**. Drop your day bag at the hotel (most central Kyoto hotels hold luggage from noon). Late lunch in the basement of the station building.
 - **13:00** — Lunch: **Shinshindo Kyoto Station** branch closed Sundays; instead head to **Hyōtei Bekkan** lunch box (¥3,500–5,500) only if you have a reservation — otherwise default to **Honke Owariya** (Sanjo, oldest soba shop in Kyoto, est. 1465). 11:00–19:00, closed Wed. Cash + cards. Get the *Hourai Soba* — five-tier soba towers.

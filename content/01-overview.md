@@ -29,7 +29,7 @@ Fourteen nights in Japan, late October to early November 2026, celebrating Cleme
 1. **A private rotenburo at dawn on Oct 29** in Hakone, before anyone else is awake.
 2. **Shirakawa-go on the 07:50 Nohi Bus**, on a Sunday at peak foliage, arriving at the Shiroyama viewpoint a full hour before the tour buses.
 3. **Saiho-ji moss temple** on Day 14 — sutra copying in silence before you see the moss garden, the most contemplative moment of the trip.
-4. **Tsukiji Outer Market at 07:00** on Day 5 — six small things eaten while drifting through the alleys.
+4. **Tsukiji Outer Market at 09:00** on Day 5 — six small things eaten while drifting through the alleys. (The 8:00-earliest-wake rule means you arrive mid-morning, not at dawn — vendors are still fully active until 11:00.)
 5. **The Hida Wide View Limited Express** twice — once into Takayama through the Hida River gorge (Day 8), once out direct to Kyoto (Day 11).
 6. **Ohara on Culture Day** (Day 12) while everyone else is at Fushimi Inari and Kiyomizu-dera.
 7. **The wander blocks** — labeled into every day, 2–3 hours each, often with an optional Clemens-Sonja split. The point of the trip is that you have room to discover.
@@ -37,6 +37,7 @@ Fourteen nights in Japan, late October to early November 2026, celebrating Cleme
 ## The hard rules of this plan
 
 - **No alcohol anywhere.** Not at kaiseki, not as cultural framing, not as "pair with sake." Replaced everywhere with kissaten, specialty coffee, wagashi, depachika.
+- **8:00 is the earliest forced wake-up.** Two exceptions only: **Day 7 dawn onsen at Hakone (06:30)** and **Day 10 Shirakawa-go 07:50 bus**. Both have concrete payoffs that justify the cost. Everything else — Tsukiji, Meiji Jingu, Arashiyama bamboo grove, Fushimi Inari sunrise — was pushed or dropped to honor this rule. It's a vacation, not a hike.
 - **Wander time is sacred.** Every city day has a labeled 2–3h "wander block."
 - **Off the tourist path for restaurants.** No Ichiran, Ippudo, Tsuta, Afuri, TikTok-famous spots.
 - **One splurge ceiling.** Hakone ryokan only.
