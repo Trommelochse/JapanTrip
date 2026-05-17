@@ -23,6 +23,7 @@ ROOT = Path(__file__).parent
 CONTENT = ROOT / "content"
 ASSETS = ROOT / "assets"
 PLACES = ROOT / "places"
+GLOSSARY = ROOT / "glossary.json"
 SITE = ROOT / "site"
 
 HEADER_TITLE = "Japan — 40th Birthday Trip"
@@ -229,10 +230,19 @@ PAGE_TEMPLATE = """<!DOCTYPE html>
 <body>
 <button class="nav-toggle" aria-label="Toggle navigation" onclick="document.body.classList.toggle('nav-open')">☰</button>
 <button class="theme-toggle" aria-label="Toggle dark mode" onclick="(function(){{var b=document.body;b.classList.toggle('dark');try{{localStorage.setItem('theme',b.classList.contains('dark')?'dark':'light');}}catch(e){{}}}})()">◐</button>
+<button class="glossary-toggle" aria-label="Toggle glossary" onclick="document.body.classList.toggle('glossary-open')">📖 Glossary</button>
 {nav}
 <main class="content">
 {body}
 </main>
+<aside class="glossary" aria-label="Trip glossary">
+    <div class="glossary-header">
+        <strong>Glossary</strong>
+        <button class="glossary-close" aria-label="Close glossary" onclick="document.body.classList.remove('glossary-open')">✕</button>
+    </div>
+    <input type="search" class="glossary-search" placeholder="Search… (e.g. onsen, ryokan, kaiseki)" autocomplete="off">
+    <div class="glossary-list"></div>
+</aside>
 <script>
 (function() {{
     try {{
@@ -242,6 +252,45 @@ PAGE_TEMPLATE = """<!DOCTYPE html>
             document.body.classList.add('dark');
         }}
     }} catch (e) {{}}
+}})();
+</script>
+<script>
+(function() {{
+    var TERMS = {glossary_json};
+    var list = document.querySelector('.glossary-list');
+    var search = document.querySelector('.glossary-search');
+    function escape(s) {{
+        return String(s).replace(/[&<>"']/g, function(c) {{
+            return {{ '&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;' }}[c];
+        }});
+    }}
+    function render(filter) {{
+        var q = (filter || '').trim().toLowerCase();
+        var matches = TERMS.filter(function(t) {{
+            if (!q) return true;
+            if (t.term.toLowerCase().indexOf(q) !== -1) return true;
+            if ((t.aliases || []).some(function(a) {{ return a.toLowerCase().indexOf(q) !== -1; }})) return true;
+            if (t.def.toLowerCase().indexOf(q) !== -1) return true;
+            return false;
+        }});
+        if (matches.length === 0) {{
+            list.innerHTML = '<p class="glossary-empty">No matches. Try a shorter query.</p>';
+            return;
+        }}
+        list.innerHTML = matches.map(function(t) {{
+            var aliases = (t.aliases && t.aliases.length) ? ' <span class="glossary-aliases">' + escape(t.aliases.join(' · ')) + '</span>' : '';
+            var cat = t.category ? '<span class="glossary-cat">' + escape(t.category) + '</span>' : '';
+            return '<dl class="glossary-entry"><dt>' + escape(t.term) + aliases + cat + '</dt><dd>' + escape(t.def) + '</dd></dl>';
+        }}).join('');
+    }}
+    render('');
+    search.addEventListener('input', function(e) {{ render(e.target.value); }});
+    // ESC closes the panel
+    document.addEventListener('keydown', function(e) {{
+        if (e.key === 'Escape' && document.body.classList.contains('glossary-open')) {{
+            document.body.classList.remove('glossary-open');
+        }}
+    }});
 }})();
 </script>
 </body>
@@ -265,6 +314,15 @@ def main():
     md_files = sorted(CONTENT.glob("*.md"))
     if not md_files:
         sys.exit(f"No markdown files found in {CONTENT}")
+
+    # Load glossary once; inline into every page.
+    if GLOSSARY.is_file():
+        glossary_data = json.loads(GLOSSARY.read_text(encoding="utf-8"))
+        glossary_terms = sorted(glossary_data.get("terms", []), key=lambda t: t["term"].lower())
+        glossary_json = json.dumps(glossary_terms, ensure_ascii=False)
+        print(f"Loaded glossary: {len(glossary_terms)} terms")
+    else:
+        glossary_json = "[]"
 
     # Copy static assets (CSS, future images/fonts) into site/
     if ASSETS.is_dir():
@@ -304,6 +362,7 @@ def main():
             title=page_title,
             nav=nav_html(active_stem),
             body=body,
+            glossary_json=glossary_json,
         )
         (SITE / out_name).write_text(page, encoding="utf-8")
         link_note = f"  [{link_count} place links"

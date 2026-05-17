@@ -304,7 +304,7 @@ body.dark .content tr:nth-child(even) td {
 }
 
 /* Toggles */
-.nav-toggle, .theme-toggle {
+.nav-toggle, .theme-toggle, .glossary-toggle {
     position: fixed;
     z-index: 60;
     background: var(--nav-bg);
@@ -319,12 +319,124 @@ body.dark .content tr:nth-child(even) td {
     line-height: 1;
 }
 
-.nav-toggle:hover, .theme-toggle:hover {
+.nav-toggle:hover, .theme-toggle:hover, .glossary-toggle:hover {
     background: var(--accent-soft);
 }
 
 .nav-toggle { top: 1rem; left: 1rem; display: none; }
 .theme-toggle { top: 1rem; right: 1rem; }
+.glossary-toggle { top: 1rem; right: 4rem; font-size: 0.9rem; }
+
+/* Glossary panel */
+.glossary {
+    position: fixed;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    width: 380px;
+    max-width: 90vw;
+    background: var(--nav-bg);
+    border-left: 1px solid var(--rule);
+    box-shadow: -4px 0 20px rgba(0,0,0,0.15);
+    z-index: 70;
+    transform: translateX(100%);
+    transition: transform 0.2s ease;
+    display: flex;
+    flex-direction: column;
+    padding: 1.25rem 1.25rem 1rem;
+}
+body.glossary-open .glossary { transform: translateX(0); }
+body.glossary-open::before {
+    content: "";
+    position: fixed;
+    inset: 0;
+    background: rgba(0,0,0,0.35);
+    z-index: 65;
+}
+.glossary-header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 0.75rem;
+    color: var(--accent);
+    font-size: 1.1rem;
+}
+.glossary-close {
+    background: none;
+    border: none;
+    color: var(--fg);
+    font-size: 1.2rem;
+    cursor: pointer;
+    padding: 0.2rem 0.4rem;
+    line-height: 1;
+    font-family: inherit;
+}
+.glossary-close:hover { color: var(--accent); }
+.glossary-search {
+    width: 100%;
+    padding: 0.55rem 0.75rem;
+    font-size: 0.95rem;
+    border: 1px solid var(--rule);
+    border-radius: 4px;
+    background: var(--bg);
+    color: var(--fg);
+    font-family: inherit;
+    margin-bottom: 0.75rem;
+}
+.glossary-search:focus {
+    outline: 2px solid var(--accent);
+    outline-offset: 0;
+    border-color: var(--accent);
+}
+.glossary-list {
+    flex: 1;
+    overflow-y: auto;
+    padding-right: 0.25rem;
+}
+.glossary-entry {
+    margin: 0 0 0.85rem;
+    padding-bottom: 0.75rem;
+    border-bottom: 1px solid var(--rule);
+}
+.glossary-entry:last-child { border-bottom: none; }
+.glossary-entry dt {
+    font-weight: 700;
+    color: var(--accent);
+    margin-bottom: 0.25rem;
+    font-size: 1rem;
+    display: flex;
+    flex-wrap: wrap;
+    align-items: baseline;
+    gap: 0.5rem;
+}
+.glossary-aliases {
+    font-weight: 400;
+    color: var(--muted);
+    font-size: 0.8rem;
+}
+.glossary-cat {
+    background: var(--accent-soft);
+    color: var(--fg-soft);
+    font-weight: 500;
+    font-size: 0.7rem;
+    padding: 0.1rem 0.4rem;
+    border-radius: 3px;
+    text-transform: uppercase;
+    letter-spacing: 0.04em;
+    margin-left: auto;
+}
+.glossary-entry dd {
+    margin: 0;
+    font-size: 0.9rem;
+    line-height: 1.5;
+    color: var(--fg-soft);
+}
+.glossary-empty {
+    color: var(--muted);
+    font-style: italic;
+    text-align: center;
+    padding: 2rem 0;
+}
 
 /* Mobile */
 @media (max-width: 900px) {
@@ -342,6 +454,12 @@ body.dark .content tr:nth-child(even) td {
         padding: 4.5rem 1.5rem 3rem;
     }
     .nav-toggle { display: inline-block; }
+    .glossary-toggle {
+        right: 4rem;
+        font-size: 0;
+        padding: 0.45rem 0.6rem;
+    }
+    .glossary-toggle::before { content: "📖"; font-size: 1.1rem; }
     body.nav-open::after {
         content: "";
         position: fixed;
@@ -404,7 +522,7 @@ body.dark .day-map-pin { border-color: var(--bg); }
     .day-map, .day-map-legend { display: none !important; }
     .place-link { border: none !important; }
     .place-link strong { color: inherit !important; }
-    .sidebar, .nav-toggle, .theme-toggle { display: none !important; }
+    .sidebar, .nav-toggle, .theme-toggle, .glossary-toggle, .glossary { display: none !important; }
     .content {
         margin-left: 0;
         max-width: none;
