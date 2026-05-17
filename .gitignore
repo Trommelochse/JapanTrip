@@ -1,0 +1,23 @@
+# Generated site (built by GitHub Actions on push)
+site/
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+.venv/
+venv/
+
+# OS junk
+.DS_Store
+Thumbs.db
+
+# Editor
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Memory directory (not part of this project)
+# (memory lives in ~/.claude — not in JapanTrip — but just in case)
+.claude/
