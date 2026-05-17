@@ -8,6 +8,7 @@ Outputs into site/. The 00-index.md becomes site/index.html.
 Relative .md links are rewritten to .html.
 """
 
+import json
 import re
 import shutil
 import sys
@@ -21,6 +22,7 @@ except ImportError:
 ROOT = Path(__file__).parent
 CONTENT = ROOT / "content"
 ASSETS = ROOT / "assets"
+PLACES = ROOT / "places"
 SITE = ROOT / "site"
 
 HEADER_TITLE = "Japan — 40th Birthday Trip"
@@ -109,6 +111,57 @@ def render_md(md_text: str) -> str:
     return html
 
 
+def render_map(stem: str) -> str:
+    """If places/<stem>.json exists, return HTML for an interactive Leaflet map.
+    Returns empty string otherwise."""
+    places_file = PLACES / f"{stem}.json"
+    if not places_file.is_file():
+        return ""
+    data = json.loads(places_file.read_text(encoding="utf-8"))
+    places = data.get("places", [])
+    if not places:
+        return ""
+    map_id = f"map-{stem}"
+    places_json = json.dumps(places)
+    return f"""
+<div id="{map_id}" class="day-map" aria-label="Map of places for this day"></div>
+<p class="day-map-legend">Pins are numbered in schedule order. Click for details. Map tiles © OpenStreetMap contributors.</p>
+<link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" crossorigin="">
+<script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js" crossorigin=""></script>
+<script>
+(function() {{
+    var places = {places_json};
+    var map = L.map({map_id!r}, {{ scrollWheelZoom: false }});
+    L.tileLayer('https://{{s}}.tile.openstreetmap.org/{{z}}/{{x}}/{{y}}.png', {{
+        maxZoom: 19,
+        attribution: '© <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a>'
+    }}).addTo(map);
+    var bounds = [];
+    places.forEach(function(p, i) {{
+        var icon = L.divIcon({{
+            className: 'day-map-pin',
+            html: String(i + 1),
+            iconSize: [28, 28],
+            iconAnchor: [14, 14]
+        }});
+        var popup = '<b>' + (i + 1) + '. ' + p.name + '</b>';
+        if (p.time) popup += '<br><small>' + p.time + (p.category ? ' · ' + p.category : '') + '</small>';
+        if (p.notes) popup += '<small>' + p.notes + '</small>';
+        L.marker([p.lat, p.lng], {{ icon: icon }}).addTo(map).bindPopup(popup);
+        bounds.push([p.lat, p.lng]);
+    }});
+    if (bounds.length === 1) {{
+        map.setView(bounds[0], 15);
+    }} else {{
+        map.fitBounds(bounds, {{ padding: [30, 30] }});
+    }}
+    map.on('click', function() {{ map.scrollWheelZoom.enable(); }});
+    map.on('mouseout', function() {{ map.scrollWheelZoom.disable(); }});
+}})();
+</script>
+"""
+
+
 PAGE_TEMPLATE = """<!DOCTYPE html>
 <html lang="en">
 <head>
@@ -175,6 +228,14 @@ def main():
             active_stem = stem
 
         body = render_md(md_path.read_text(encoding="utf-8"))
+        map_html = render_map(stem)
+        if map_html:
+            # Insert the map right before the first <h2> (typically "## Schedule").
+            # Falls back to appending to the start of the body if no <h2> exists.
+            if "<h2" in body:
+                body = body.replace("<h2", map_html + "\n<h2", 1)
+            else:
+                body = map_html + body
         title = extract_title(body, stem)
         # Page <title> tag = "<page title> — Japan Trip"
         if title.lower().startswith("japan"):

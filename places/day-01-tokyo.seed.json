@@ -1,0 +1,10 @@
+{
+  "region": "tokyo",
+  "places": [
+    {"name": "Haneda Airport (HND)", "query": "Haneda Airport, Tokyo", "time": "~18:00", "category": "transit"},
+    {"name": "Shinagawa Station", "query": "Shinagawa Station, Tokyo", "time": "19:00", "category": "transit"},
+    {"name": "Ebisu Yokocho (dinner option, if near Shibuya/Ebisu)", "query": "Ebisu Yokocho, Tokyo", "time": "20:30", "category": "dinner"},
+    {"name": "Tonkatsu Suzuya Kabukicho (dinner option, if near Shinjuku)", "query": "Tonkatsu Suzuya Kabukicho, Tokyo", "time": "20:30", "category": "dinner"},
+    {"name": "Nippori Station (dinner option, if near Yanaka/Ueno)", "query": "Nippori Station, Tokyo", "time": "20:30", "category": "transit"}
+  ]
+}

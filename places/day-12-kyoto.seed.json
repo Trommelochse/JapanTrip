@@ -1,0 +1,13 @@
+{
+  "region": "ohara",
+  "places": [
+    {"name": "Kyoto Station (bus terminal C3)", "time": "09:00", "category": "transit", "lat": 34.98549, "lng": 135.75857},
+    {"name": "Ohara Bus Stop", "query": "Ohara, Sakyo, Kyoto", "time": "10:30", "category": "transit"},
+    {"name": "Sanzen-in", "query": "Sanzen-in Temple, Ohara, Kyoto", "time": "10:45", "category": "anchor"},
+    {"name": "Hosen-in", "query": "Hosen-in, Ohara, Kyoto", "time": "12:00", "category": "anchor"},
+    {"name": "Seryo (lunch)", "query": "Seryo, Ohara, Kyoto", "time": "12:45", "category": "lunch"},
+    {"name": "Jakko-in", "query": "Jakko-in, Ohara, Kyoto", "time": "14:30", "category": "anchor"},
+    {"name": "Mishima-tei (dinner, central Kyoto)", "time": "18:30", "category": "dinner", "lat": 35.00822, "lng": 135.76801},
+    {"name": "Kamogawa riverside (Pontocho)", "time": "20:30", "category": "wander", "lat": 35.00595, "lng": 135.77216}
+  ]
+}

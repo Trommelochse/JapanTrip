@@ -1,0 +1,18 @@
+{
+  "region": "tokyo",
+  "places": [
+    {"name": "Nippori Station (east exit)", "query": "Nippori Station, Tokyo", "time": "09:30", "category": "transit"},
+    {"name": "Yanaka Cemetery", "query": "Yanaka Cemetery, Tokyo", "time": "09:45", "category": "anchor"},
+    {"name": "SCAI The Bathhouse", "query": "SCAI The Bathhouse, Yanaka, Tokyo", "time": "morning", "category": "gallery"},
+    {"name": "Kayaba Coffee", "query": "Kayaba Coffee Yanaka", "time": "11:15", "category": "coffee"},
+    {"name": "Hantei (kushiage)", "query": "Hantei Nezu, Tokyo", "time": "12:15", "category": "lunch"},
+    {"name": "Yanaka Ginza", "query": "Yanaka Ginza, Tokyo", "time": "13:45", "category": "wander"},
+    {"name": "Nezu Shrine", "query": "Nezu Shrine, Tokyo", "time": "afternoon", "category": "anchor"},
+    {"name": "Isetatsu (chiyogami paper)", "query": "Isetatsu, Yanaka, Tokyo", "time": "afternoon", "category": "shop"},
+    {"name": "Kanekichien (tea + wagashi)", "query": "Kanekichien Yanaka", "time": "16:30", "category": "coffee"},
+    {"name": "Hagiso (backup café)", "query": "Hagiso, Yanaka, Tokyo", "time": "optional", "category": "coffee"},
+    {"name": "Sendagi Station", "query": "Sendagi Station, Tokyo", "time": "17:30", "category": "transit"},
+    {"name": "teamLab Planets TOKYO", "query": "teamLab Planets Tokyo", "time": "18:30", "category": "anchor"},
+    {"name": "Iroha Honten (monjayaki)", "query": "Iroha Honten Tsukishima, Tokyo", "time": "21:00", "category": "dinner"}
+  ]
+}

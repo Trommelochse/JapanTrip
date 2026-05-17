@@ -1,0 +1,17 @@
+{
+  "region": "takayama",
+  "places": [
+    {"name": "Miyagawa Morning Market", "query": "Miyagawa Morning Market, Takayama", "time": "08:45", "category": "anchor"},
+    {"name": "Jinya-mae Market", "query": "Jinya-mae Market, Takayama", "time": "morning", "category": "anchor"},
+    {"name": "Takayama Jinya", "query": "Takayama Jinya", "time": "09:45", "category": "anchor"},
+    {"name": "Falò (coffee)", "query": "Falò Coffee Takayama", "time": "11:00", "category": "coffee"},
+    {"name": "Suzuya (Hida beef)", "query": "Suzuya, Hanakawamachi, Takayama", "time": "12:00", "category": "lunch"},
+    {"name": "Hida-no-Sato (Hida Folk Village)", "query": "Hida Folk Village, Takayama", "time": "13:30", "category": "anchor"},
+    {"name": "Higashiyama Walking Course", "query": "Higashiyama Teramachi Takayama", "time": "17:00", "category": "wander"},
+    {"name": "Tenshō-ji", "query": "Tensho-ji Temple, Takayama", "time": "Higashiyama loop", "category": "anchor"},
+    {"name": "Shiroyama Park overlook", "query": "Shiroyama Park, Takayama", "time": "Higashiyama loop", "category": "wander"},
+    {"name": "Ebisu Honten (Hida soba)", "query": "Ebisu Honten, Kamininomachi, Takayama", "time": "18:45", "category": "dinner"},
+    {"name": "Hyotei (alt dinner)", "time": "19:00+ alt", "category": "dinner", "lat": 36.14200, "lng": 137.25690},
+    {"name": "Cafe Aoteo", "query": "Cafe Aoteo Takayama", "time": "optional", "category": "coffee"}
+  ]
+}

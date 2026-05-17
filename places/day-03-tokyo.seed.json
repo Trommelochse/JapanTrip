@@ -1,0 +1,19 @@
+{
+  "region": "tokyo",
+  "places": [
+    {"name": "Harajuku Station", "query": "Harajuku Station, Tokyo, Japan", "time": "09:00", "category": "transit"},
+    {"name": "Meiji Jingu", "query": "Meiji Jingu Shrine, Shibuya, Tokyo, Japan", "time": "09:15", "category": "anchor"},
+    {"name": "Yoyogi Park (east edge)", "query": "Yoyogi Park, Shibuya, Tokyo, Japan", "time": "10:55", "category": "transit"},
+    {"name": "The Roastery by Nozy Coffee", "query": "The Roastery by Nozy Coffee, 5-17-13 Jingumae, Shibuya, Tokyo", "time": "11:20", "category": "coffee"},
+    {"name": "Maisen Aoyama Honten", "query": "Maisen Aoyama Honten, 4-8-5 Jingumae, Shibuya, Tokyo", "time": "12:00", "category": "lunch"},
+    {"name": "@cosme TOKYO", "query": "@cosme TOKYO, 1-14-27 Jingumae, Tokyo", "time": "13:30", "category": "shop"},
+    {"name": "Cosme Kitchen Omotesando", "time": "afternoon", "category": "shop", "lat": 35.66502, "lng": 139.71154},
+    {"name": "Shu Uemura Tokyo Makeup Box", "time": "afternoon", "category": "shop", "lat": 35.66702, "lng": 139.71024},
+    {"name": "Beautylibrary Aoyama", "query": "Beautylibrary, Minami-Aoyama, Tokyo", "time": "afternoon", "category": "shop"},
+    {"name": "Daikanyama T-Site / Tsutaya Books", "query": "Daikanyama T-Site, 17-5 Sarugakucho, Shibuya, Tokyo", "time": "afternoon (Clemens split)", "category": "shop"},
+    {"name": "Okura (indigo workwear)", "time": "afternoon", "category": "shop", "lat": 35.64923, "lng": 139.70302},
+    {"name": "Shibuya Sky", "query": "Shibuya Sky, Shibuya Scramble Square, Tokyo", "time": "17:00", "category": "anchor", "notes": "Book sunset slot ahead"},
+    {"name": "Shibuya Crossing", "query": "Shibuya Crossing, Tokyo", "time": "18:30", "category": "anchor"},
+    {"name": "Katsukichi Shibuya", "query": "Katsukichi, Shibuya Mark City, Tokyo", "time": "19:30", "category": "dinner"}
+  ]
+}

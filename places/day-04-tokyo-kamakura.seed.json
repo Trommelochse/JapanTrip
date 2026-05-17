@@ -1,0 +1,17 @@
+{
+  "region": "kamakura",
+  "places": [
+    {"name": "Tokyo Station (depart)", "query": "Tokyo Station", "time": "08:45", "category": "transit", "lat": 35.68117, "lng": 139.76712},
+    {"name": "Kamakura Station", "query": "Kamakura Station", "time": "09:45", "category": "transit"},
+    {"name": "Hase Station (Enoden)", "query": "Hase Station Enoden, Kamakura", "time": "10:00", "category": "transit"},
+    {"name": "Hase-dera", "query": "Hase-dera Temple, Kamakura", "time": "10:10", "category": "anchor"},
+    {"name": "Kotoku-in (Great Buddha)", "query": "Kotoku-in Kamakura", "time": "11:35", "category": "anchor"},
+    {"name": "Kamakura Matsubara-an", "query": "Matsubara-an, Hase, Kamakura", "time": "12:30", "category": "lunch"},
+    {"name": "Yuigahama Beach", "query": "Yuigahama Beach, Kamakura", "time": "14:00", "category": "wander"},
+    {"name": "Komachi-dori", "query": "Komachi-dori, Kamakura", "time": "15:00", "category": "wander"},
+    {"name": "Tsurugaoka Hachimangu Shrine", "query": "Tsurugaoka Hachimangu, Kamakura", "time": "afternoon", "category": "anchor"},
+    {"name": "Toshimaya (hato-sablé)", "query": "Toshimaya, Komachi, Kamakura", "time": "afternoon", "category": "shop"},
+    {"name": "Hokoku-ji (Bamboo Temple)", "query": "Hokoku-ji Temple, Kamakura", "time": "15:30 optional", "category": "anchor"},
+    {"name": "Komyo-ji", "query": "Komyo-ji Zaimokuza Kamakura", "time": "optional", "category": "anchor"}
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "region": "kyoto",
+  "places": [
+    {"name": "Takayama Station (depart)", "time": "08:34", "category": "transit", "lat": 36.13935, "lng": 137.25288},
+    {"name": "Kyoto Station", "query": "Kyoto Station", "time": "12:14", "category": "transit"},
+    {"name": "Honke Owariya (oldest Kyoto soba)", "query": "Honke Owariya, Kyoto", "time": "13:00", "category": "lunch"},
+    {"name": "Yasaka Shrine", "query": "Yasaka Shrine, Kyoto", "time": "14:30", "category": "anchor"},
+    {"name": "Ishibei-koji", "query": "Ishibei-koji, Higashiyama, Kyoto", "time": "wander", "category": "wander"},
+    {"name": "Nene-no-Michi", "query": "Nene-no-Michi, Higashiyama, Kyoto", "time": "wander", "category": "wander"},
+    {"name": "Sannenzaka / Ninenzaka", "query": "Sannenzaka, Kyoto", "time": "wander", "category": "wander"},
+    {"name": "Kawai Kanjiro Memorial House", "query": "Kawai Kanjiro Memorial House, Kyoto", "time": "wander", "category": "gallery"},
+    {"name": "% Arabica Kyoto Higashiyama", "query": "% Arabica Kyoto Higashiyama", "time": "16:30", "category": "coffee"},
+    {"name": "Hokan-ji (Yasaka Pagoda)", "query": "Yasaka Pagoda Hokan-ji, Kyoto", "time": "16:45", "category": "anchor"},
+    {"name": "Kiyomizu-dera", "query": "Kiyomizu-dera, Kyoto", "time": "17:30", "category": "anchor"},
+    {"name": "Gion Kappa", "query": "Gion Kappa, Higashiyama, Kyoto", "time": "18:30", "category": "dinner"},
+    {"name": "Hanami-koji", "query": "Hanami-koji, Gion, Kyoto", "time": "20:00", "category": "wander"},
+    {"name": "Shirakawa Canal (Gion)", "query": "Shirakawa Canal, Gion, Kyoto", "time": "20:30", "category": "wander"}
+  ]
+}

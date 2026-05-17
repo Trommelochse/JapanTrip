@@ -1,0 +1,14 @@
+{
+  "region": "takayama",
+  "places": [
+    {"name": "Odawara Station", "time": "10:43", "category": "transit", "lat": 35.25608, "lng": 139.15514},
+    {"name": "Nagoya Station (transfer)", "time": "12:25", "category": "transit", "lat": 35.17098, "lng": 136.88195},
+    {"name": "Takayama Station", "query": "Takayama Station", "time": "15:35", "category": "transit"},
+    {"name": "Sanmachi-suji (old town)", "query": "Sanmachi-suji, Takayama", "time": "16:30", "category": "anchor"},
+    {"name": "Funasaka Shuzō (sake brewery — architecture only)", "query": "Funasaka Sake Brewery, Takayama", "time": "wander", "category": "anchor"},
+    {"name": "Fujii Bijutsu Mingeikan", "query": "Fujii Folk Art Museum, Takayama", "time": "afternoon", "category": "gallery"},
+    {"name": "Sangawaya Honten (mitarashi dango)", "time": "17:30", "category": "snack", "lat": 36.14144, "lng": 137.25920},
+    {"name": "Hidatakayama Kyoya", "query": "Hidatakayama Kyoya, Takayama", "time": "18:45", "category": "dinner"},
+    {"name": "Nakabashi Bridge", "query": "Nakabashi Bridge, Takayama", "time": "20:30", "category": "wander"}
+  ]
+}

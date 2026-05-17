@@ -1,0 +1,11 @@
+{
+  "region": "kyoto",
+  "places": [
+    {"name": "Nishiki Market", "query": "Nishiki Market, Kyoto", "time": "09:00", "category": "anchor"},
+    {"name": "Aritsugu (knives, since 1560)", "query": "Aritsugu, Nishiki Market, Kyoto", "time": "morning", "category": "shop"},
+    {"name": "Nishiki Tenmangu Shrine", "query": "Nishiki Tenmangu, Kyoto", "time": "morning", "category": "anchor"},
+    {"name": "Inoda Coffee Honten", "query": "Inoda Coffee Honten, Kyoto", "time": "10:30", "category": "coffee"},
+    {"name": "Kyoto Station (Haruka)", "query": "Kyoto Station", "time": "13:00", "category": "transit"},
+    {"name": "Kansai International Airport (KIX)", "time": "14:31", "category": "transit", "lat": 34.4347, "lng": 135.2440}
+  ]
+}

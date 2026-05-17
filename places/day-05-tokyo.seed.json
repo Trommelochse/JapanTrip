@@ -1,0 +1,16 @@
+{
+  "region": "tokyo",
+  "places": [
+    {"name": "Tsukijishijo Station", "query": "Tsukijishijo Station, Tokyo", "time": "08:45", "category": "transit"},
+    {"name": "Tsukiji Outer Market", "query": "Tsukiji Outer Market, Tokyo", "time": "09:00", "category": "anchor"},
+    {"name": "Tsukiji Hongan-ji", "query": "Tsukiji Hongan-ji Temple, Tokyo", "time": "10:55", "category": "anchor"},
+    {"name": "Kiyosumi-Shirakawa Station", "query": "Kiyosumi-Shirakawa Station, Tokyo", "time": "11:45", "category": "transit"},
+    {"name": "Kiyosumi Teien (Garden)", "query": "Kiyosumi Garden, Tokyo", "time": "11:45", "category": "anchor"},
+    {"name": "Blue Bottle Coffee Kiyosumi", "time": "12:40", "category": "coffee", "lat": 35.68077, "lng": 139.79716},
+    {"name": "ARiSE Coffee Roasters", "query": "ARiSE Coffee Roasters Kiyosumi, Tokyo", "time": "afternoon", "category": "coffee"},
+    {"name": "Fukagawajuku", "query": "Fukagawajuku, Tomioka, Tokyo", "time": "13:00", "category": "lunch"},
+    {"name": "Fukadaso", "query": "Fukadaso, Hirano, Tokyo", "time": "afternoon", "category": "shop"},
+    {"name": "MOT (Museum of Contemporary Art Tokyo)", "query": "Museum of Contemporary Art Tokyo, Miyoshi", "time": "afternoon", "category": "gallery"},
+    {"name": "Kanda Yabu Soba", "query": "Kanda Yabu Soba, Tokyo", "time": "18:30", "category": "dinner"}
+  ]
+}

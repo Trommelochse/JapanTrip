@@ -1,0 +1,18 @@
+{
+  "region": "arashiyama",
+  "places": [
+    {"name": "Kyoto Station (depart)", "time": "08:30", "category": "transit", "lat": 34.98549, "lng": 135.75857},
+    {"name": "Saga-Arashiyama Station", "query": "Saga-Arashiyama Station", "time": "08:50", "category": "transit"},
+    {"name": "Tenryu-ji", "query": "Tenryu-ji Temple, Arashiyama, Kyoto", "time": "09:00", "category": "anchor"},
+    {"name": "Arashiyama Bamboo Grove (corridor)", "query": "Arashiyama Bamboo Grove", "time": "10:00", "category": "wander"},
+    {"name": "Okochi Sanso Villa", "query": "Okochi Sanso", "time": "10:15", "category": "anchor"},
+    {"name": "Togetsukyo Bridge", "query": "Togetsukyo Bridge, Arashiyama", "time": "11:00", "category": "wander"},
+    {"name": "% Arabica Arashiyama", "query": "% Arabica Arashiyama", "time": "11:25", "category": "coffee"},
+    {"name": "Shigetsu (Tenryu-ji shojin-ryori)", "time": "11:30", "category": "lunch", "lat": 35.01620, "lng": 135.67290, "notes": "Inside Tenryu-ji grounds"},
+    {"name": "Saiho-ji (Kokedera)", "query": "Saiho-ji Kokedera, Kyoto", "time": "13:00", "category": "anchor"},
+    {"name": "Suzumushi-dera", "time": "15:30 optional", "category": "anchor", "lat": 34.99290, "lng": 135.68400},
+    {"name": "Philosopher's Path (Tetsugaku-no-michi)", "time": "16:30", "category": "wander", "lat": 35.02671, "lng": 135.79551},
+    {"name": "Eikan-do", "time": "evening", "category": "anchor", "lat": 35.01510, "lng": 135.79566},
+    {"name": "Monk (pizza dinner, near Philosopher's Path)", "time": "19:00", "category": "dinner", "lat": 35.01923, "lng": 135.79431}
+  ]
+}

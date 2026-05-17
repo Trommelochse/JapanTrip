@@ -1,0 +1,17 @@
+{
+  "region": "hakone",
+  "places": [
+    {"name": "Gora Station", "query": "Gora Station, Hakone", "time": "09:50", "category": "transit"},
+    {"name": "Hakone Tozan Cable Car (Sounzan)", "query": "Sounzan Station, Hakone", "time": "10:00", "category": "transit"},
+    {"name": "Owakudani", "query": "Owakudani, Hakone", "time": "10:15", "category": "anchor"},
+    {"name": "Togendai (Lake Ashi)", "query": "Togendai Station, Hakone", "time": "11:30", "category": "transit"},
+    {"name": "Moto-Hakone", "query": "Moto-Hakone, Lake Ashi", "time": "12:20", "category": "transit"},
+    {"name": "Bakery & Table Hakone", "query": "Bakery Table Hakone", "time": "12:30", "category": "lunch"},
+    {"name": "Hakone Shrine torii (lake)", "query": "Hakone Shrine, Moto-Hakone", "time": "13:30", "category": "anchor"},
+    {"name": "Ancient Cedar Avenue", "time": "13:30", "category": "wander", "lat": 35.20090, "lng": 139.02570},
+    {"name": "Hakone Open-Air Museum", "query": "Hakone Open-Air Museum", "time": "15:30", "category": "anchor"},
+    {"name": "NARAYA CAFE", "query": "Naraya Cafe, Miyanoshita, Hakone", "time": "16:45", "category": "coffee"},
+    {"name": "Pola Museum of Art (rain alt)", "query": "Pola Museum of Art, Sengokuhara, Hakone", "time": "rain plan", "category": "gallery"},
+    {"name": "Lalique Museum (rain alt)", "query": "Lalique Museum, Sengokuhara, Hakone", "time": "rain plan", "category": "gallery"}
+  ]
+}

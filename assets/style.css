@@ -355,8 +355,44 @@ body.dark .content tr:nth-child(even) td {
     .content th, .content td { padding: 0.4rem 0.55rem; }
 }
 
+/* Day map */
+.day-map {
+    height: 480px;
+    margin: 1.5rem 0 2rem;
+    border: 1px solid var(--rule);
+    border-radius: 4px;
+    box-shadow: var(--shadow);
+    background: var(--bg-alt);
+    z-index: 0;
+}
+.day-map-legend {
+    font-size: 0.85rem;
+    color: var(--muted);
+    margin: -1rem 0 2rem;
+    font-style: italic;
+}
+.day-map-pin {
+    background: var(--accent);
+    color: var(--nav-active-fg);
+    border: 2px solid #fff;
+    border-radius: 50%;
+    width: 28px !important;
+    height: 28px !important;
+    line-height: 24px;
+    text-align: center;
+    font-weight: 700;
+    font-size: 0.85rem;
+    box-shadow: 0 1px 3px rgba(0,0,0,0.4);
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif;
+}
+body.dark .day-map-pin { border-color: var(--bg); }
+.leaflet-popup-content { font-size: 0.9rem; line-height: 1.4; }
+.leaflet-popup-content b { color: var(--accent); }
+.leaflet-popup-content small { color: var(--muted); display: block; margin-top: 0.2rem; }
+
 /* Print */
 @media print {
+    .day-map, .day-map-legend { display: none !important; }
     .sidebar, .nav-toggle, .theme-toggle { display: none !important; }
     .content {
         margin-left: 0;

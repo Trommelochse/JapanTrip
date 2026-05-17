@@ -1,0 +1,16 @@
+{
+  "region": "shirakawago",
+  "places": [
+    {"name": "Takayama Nōhi Bus Center", "time": "07:15", "category": "transit", "lat": 36.13917, "lng": 137.25243},
+    {"name": "Shirakawa-go Bus Terminal", "query": "Shirakawa-go Bus Terminal", "time": "08:40", "category": "transit"},
+    {"name": "Deai Bridge", "query": "Deai Bridge, Shirakawa-go", "time": "08:55", "category": "wander"},
+    {"name": "Shiroyama Viewpoint (Ogimachi)", "time": "09:15", "category": "anchor", "lat": 36.26289, "lng": 136.90837},
+    {"name": "Wada House (Wada-ke)", "query": "Wada House, Shirakawa-go", "time": "10:30", "category": "anchor"},
+    {"name": "Kanda House", "query": "Kanda House, Shirakawa-go", "time": "wander", "category": "anchor"},
+    {"name": "Myōzen-ji Temple Museum", "query": "Myozenji Temple, Shirakawa-go", "time": "wander", "category": "anchor"},
+    {"name": "Irori (lunch)", "query": "Irori, Ogimachi, Shirakawa-go", "time": "12:30", "category": "lunch"},
+    {"name": "Akiba-jinja Shrine", "query": "Akiba Shrine, Shirakawa-go", "time": "14:00", "category": "anchor"},
+    {"name": "Cafe Kiraku", "time": "15:00", "category": "coffee", "lat": 36.25890, "lng": 136.90720},
+    {"name": "Tsuzumi-soba (Takayama dinner alt)", "time": "19:00", "category": "dinner", "lat": 36.14266, "lng": 137.25822}
+  ]
+}

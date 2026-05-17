@@ -1,0 +1,19 @@
+{
+  "region": "kyoto",
+  "places": [
+    {"name": "Tofukuji Station", "query": "Tofukuji Station, Kyoto", "time": "08:45", "category": "transit"},
+    {"name": "Tofuku-ji", "query": "Tofuku-ji Temple, Kyoto", "time": "09:00", "category": "anchor"},
+    {"name": "Funda-in (Sesshu-ji)", "time": "10:45", "category": "anchor", "lat": 34.97630, "lng": 135.77210},
+    {"name": "Komyo-in", "query": "Komyo-in, Tofukuji, Kyoto", "time": "11:20", "category": "anchor"},
+    {"name": "Sanjusangen-do", "query": "Sanjusangen-do, Kyoto", "time": "13:00", "category": "anchor"},
+    {"name": "Kawai Kanjiro Memorial House", "query": "Kawai Kanjiro Memorial House, Kyoto", "time": "14:00 optional", "category": "gallery"},
+    {"name": "Ippodo Tea (Teramachi)", "query": "Ippodo Tea Teramachi, Kyoto", "time": "afternoon", "category": "shop"},
+    {"name": "Nishiki Market (eastern edge)", "query": "Nishiki Market, Kyoto", "time": "afternoon", "category": "wander"},
+    {"name": "Inoda Coffee Honten", "query": "Inoda Coffee Honten, Kyoto", "time": "afternoon", "category": "coffee"},
+    {"name": "Weekenders Coffee Tominokoji", "query": "Weekenders Coffee Tominokoji, Kyoto", "time": "16:30", "category": "coffee"},
+    {"name": "Yasaka Shrine", "query": "Yasaka Shrine, Kyoto", "time": "17:30", "category": "anchor"},
+    {"name": "Maruyama Park", "query": "Maruyama Park, Kyoto", "time": "evening", "category": "wander"},
+    {"name": "Giro Giro Hitoshina (dinner)", "query": "Giro Giro Hitoshina, Kyoto", "time": "18:30", "category": "dinner"},
+    {"name": "Pontocho alley", "query": "Pontocho, Kyoto", "time": "20:30", "category": "wander"}
+  ]
+}
